@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Treatise/01_Introduction.md","permalink":"/treatise/01-introduction/","title":"1. Introduction"}
+{"dg-publish":true,"dg-path":"Treatise/01_Introduction.md","permalink":"/treatise/01-introduction/","title":"Introduction"}
 ---
 
 # Introduction

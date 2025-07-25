@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Treatise/02_Table-of-Contents.md","permalink":"/treatise/02-table-of-contents/"}
+{"dg-publish":true,"dg-path":"Treatise/02_Table-of-Contents.md","permalink":"/treatise/02-table-of-contents/","title":"Table of Contents"}
 ---
 
 1. [[1_Treatise/01_Introduction\|Introduction]]
@@ -36,7 +36,7 @@
     5. Section 2 of the Sherman Act
 	    1. Relationship to Section 1 of the Sherman Act
 	    2. General Offenses Under Section 2 of the Sherman Act
-		    1. [[1_Treatise/07_The-Sherman-Act/05_02_01_Attempted Monopolization\|Attempted Monopolization]]
+		    1. [[1_Treatise/07_The-Sherman-Act/03_Attempted-Monopolization\|Attempted Monopolization]]
 		    2. Monopolization
 		    3. Conspiracies to Monopolize
 	    3. Specific Offenses Under Section 2 of the Sherman Act
