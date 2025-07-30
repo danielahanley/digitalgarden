@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Case Briefs/_Welcome_.md","permalink":"/case-briefs/welcome/","title":"Welcome","pinned":true,"tags":["gardenEntry"]}
+{"dg-publish":true,"dg-path":"Case Briefs/_Welcome_.md","permalink":"/case-briefs/welcome/","title":"Welcome","hide":true,"pinned":true,"tags":["gardenEntry"]}
 ---
 
 # Welcome
