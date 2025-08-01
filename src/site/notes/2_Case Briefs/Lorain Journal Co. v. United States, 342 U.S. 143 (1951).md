@@ -3,10 +3,6 @@
 ---
 
 
-# Name of Case/Citation
-
-Lorain Journal Co. v. United States, 342 U.S. 143 (1951)
-
 # Court
 
 Supreme Court
@@ -218,7 +214,6 @@ This document is not legal advice. Case briefs are merely summations of legal op
 
 # Links
 
-- To this case brief: [https://bit.ly/LP-LorainJournalvUS-342US143-1951-Brief](https://bit.ly/LP-LorainJournalvUS-342US143-1951-Brief)
 - PowerPoint brief: [https://bit.ly/LP-LorainJournalvUS-342US143-1951-PPTX](https://bit.ly/LP-LorainJournalvUS-342US143-1951-PPTX)
 - Video Presentation: [https://bit.ly/LP-LorainJournalvUS-342US143-1951-Vid](https://bit.ly/LP-LorainJournalvUS-342US143-1951-Vid) 
 - All other links: [https://linktr.ee/danielahanley](https://linktr.ee/danielahanley)
