@@ -134,10 +134,10 @@ Despite the record before the Supreme Court not containing all of the testimony 
 
 As detailed in the Supreme Court’s opinion, the District Court’s decree imposed the following requirements:
 
-- Supervision of future conduct of the publisher.[^30]
+- Supervision of future conduct of the Journal.[^30]
 - Inform readers at least once a week for 25 weeks of the terms of the decree.[^31]
 - For five years, the Journal must maintain records relating to the subject of the judgment and retain them for governmental inspection.[^32]
-- Conditioning or termination its advertising based on any requirement on the non-usage of another medium of advertising.[^33]
+- Prohibitions of conditioning or termination its advertising based on any requirement on the non-usage of another medium of advertising.[^33]
 
 # Rule(s) of Law
 
