@@ -214,11 +214,12 @@ This document is not legal advice. Case briefs are merely summations of legal op
 
 # Links
 
+- This Brief: https://casebriefs.lawandpower.net/case-briefs/lorain-journal-co-v-united-states-342-u-s-143-1951/
 - PowerPoint brief: [https://bit.ly/LP-LorainJournalvUS-342US143-1951-PPTX](https://bit.ly/LP-LorainJournalvUS-342US143-1951-PPTX)
-- Video Presentation: [https://bit.ly/LP-LorainJournalvUS-342US143-1951-Vid](https://bit.ly/LP-LorainJournalvUS-342US143-1951-Vid) 
-- All other links: [https://linktr.ee/danielahanley](https://linktr.ee/danielahanley)
+- Video Presentation: https://www.youtube.com/watch?v=-APJOIdNA34 
 - Subscribe to my newsletter: [https://danielhanley.substack.com/](https://danielhanley.substack.com/)
 - Master Antitrust Database: [https://bit.ly/LP-CaseBriefDatabase](https://bit.ly/LP-CaseBriefDatabase)
+- All other links: [https://linktr.ee/danielahanley](https://linktr.ee/danielahanley)
 
 
 
