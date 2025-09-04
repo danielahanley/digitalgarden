@@ -191,7 +191,7 @@ This document is not legal advice. Case briefs are merely summations of legal op
 
 # Links
 
-- This Brief: 
+- This Brief: https://casebriefs.lawandpower.net/case-briefs/spectrum-sports-inc-v-mc-quillan-506-u-s-447-1993/
 - PowerPoint brief: https://bit.ly/LP-SpectrumSportsvMcQuillan-506US447-1993-PPTX
 - Video Presentation: 
 - Subscribe to my newsletter: [https://danielhanley.substack.com/](https://danielhanley.substack.com/)
