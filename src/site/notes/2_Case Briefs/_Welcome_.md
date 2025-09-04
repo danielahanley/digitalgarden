@@ -15,7 +15,6 @@ If you wish to support my work and this project you can:
 _Subscribe to the:_
 - Law and Power newsletter: https://danielhanley.substack.com/
 - Law and Power YouTube channel: [https://www.youtube.com/@law-and-power/](https://www.youtube.com/@law-and-power/).
-- Law and Power subreddit: [https://www.reddit.com/r/lawandpower/](https://www.reddit.com/r/lawandpower/)
 
 _Follow me on:_
 - X: [https://x.com/danielahanley](https://x.com/danielahanley)
