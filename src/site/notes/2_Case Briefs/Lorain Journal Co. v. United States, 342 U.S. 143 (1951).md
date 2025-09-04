@@ -11,14 +11,15 @@ Supreme Court
 
 December 11, 1951
 
-# Vote and Result
+# Vote 
 
 7-0
 
-# Victory For
+# Victory For and Result
 
 Plaintiff
 
+Judgment affirmed.
 # Conduct at Issue
 
 Refusal to Deal, Exclusive Dealing, Attempted Monopolization, Monopolization
@@ -159,14 +160,14 @@ Additionally, it is abundantly clear from the Court’s statements that a firm h
 
 > *Note*: This statement acknowledges the importance of protecting consumers and emphasizes that antitrust enforcement is necessary at all levels of a supply chain. However, it suggests that ensuring competition at the points where goods and services directly interact with consumers is particularly critical. While the Court’s statement does not specify how much more important this focus is, it implies that without robust competition at the consumer level, protections earlier in the supply chain are undermined.
 
-> *Themes*: Necessity of the Antitrust Laws, Remedies, Protection of Consumers
+> *Themes*: {Necessity of the Antitrust Laws}, {Remedies}, {Protection of Consumers}
 
 
 “To establish this violation of § 2 as charged, it was not necessary to show that success rewarded appellants' attempt to monopolize. The injunctive relief under § 4 sought to forestall that success. While appellants' attempt to monopolize did succeed insofar as it deprived WEOL of income, WEOL has not yet been eliminated. The injunction may save it.”[^35]
 
 > _Plain Meaning_: A successful attempt to monopolize claim does not need to show that the challenged conduct actually succeeded in its intended goal.
 
-> _Themes_: Elements of a Section 2 Violation, Attempted Monopolization, Incipiency of the Sherman Act
+> _Themes_: {Elements of a Section 2 Violation}, {Attempted Monopolization}, {Incipiency of the Sherman Act}
 
 “Assuming the interstate character of the commerce involved, it seems clear that if all the newspapers in a city, in order to monopolize the dissemination of news and advertising by eliminating a competing radio station, conspired to accept no advertisements from anyone who advertised over that station, they would violate §§ 1 and 2 of the Sherman Act. It is consistent with that result to hold here that a single newspaper, already enjoying a substantial monopoly in its area, violates the ‘attempt to monopolize’ clause of § 2 when it uses its monopoly to destroy threatened competition.”[^36]
 
@@ -174,7 +175,7 @@ Additionally, it is abundantly clear from the Court’s statements that a firm h
 
 > _Note:_ It is unclear why the Court needed to equate a single firm monopolizing to multiple firms engaging in similar conduct would also be volitive of the antitrust laws. This statement merely implies some level of importance of the difference between single and concerted conduct.
 
-> _Themes_: Horizontal-Vertical Distinction
+> _Themes_: {Horizontal-Vertical Distinction}
 
 “The publisher claims a right as a private business concern to select its customers and to refuse to accept advertisements from whomever it pleases. We do not dispute that general right…The right claimed by the publisher is neither absolute nor exempt from regulation. Its exercise as a purposeful means of monopolizing interstate commerce is prohibited by the Sherman Act. The operator of the radio station, equally with the publisher of the newspaper, is entitled to the protection of that Act.”[^37]
 
@@ -182,7 +183,7 @@ Additionally, it is abundantly clear from the Court’s statements that a firm h
 
 > _Note:_ The Court’s statement is an express rebuttal of the idea that firms can do whatever they want to succeed in the marketplace and that their actions are immune from judicial scrutiny or regulation, such as in this case when actions are taken to monopolize a market.
 
-> _Themes_: Corporate Rights, Property Rights.
+> _Themes_: {Corporate Rights}, {Property Rights}
 
 “Appellants have sought to justify their conduct on the ground that it was part of the publisher's program for the protection of the Lorain market from outside competition. The publisher claimed to have refused advertising from Elyria or other out-of-town advertisers for the reason that such advertisers might compete with Lorain concerns. The publisher then classified WEOL as the publisher's own competitor from Elyria and asked its Lorain advertisers to refuse to employ WEOL as an advertising medium in competition with the Journal. We find no principle of law which required Lorain advertisers thus to boycott an Elyria advertising medium merely because the publisher of a Lorain advertising medium had chosen to boycott some Elyria advertisers who might compete for business in the Lorain market. Nor do we find any principle of law which permitted this publisher to dictate to prospective advertisers that they might advertise either by newspaper or by radio but that they might not use both facilities.”[^38]
 
@@ -190,7 +191,7 @@ Additionally, it is abundantly clear from the Court’s statements that a firm h
 
 > _Note:_ This statement implies that the Sherman Act delineates between fair and unfair methods of competition. Firms are not allowed to succeed in business by any means. They are required to operate within the boundaries established by law.
 
-> _Themes_: Corporate Rights, Property Rights, Legal Reach of the Sherman Act, Violating the Sherman Act.
+> _Themes_: {Corporate Rights}, {Property Rights}, {Legal Reach of the Sherman Act}, {Violating the Sherman Act}
 
 “While the decree should anticipate probabilities of the future, it is equally important that it do not impose unnecessary restrictions and that the procedure prescribed for supervision, giving notice, keeping records and making inspections be not unduly burdensome.”[^39]
 
@@ -198,7 +199,7 @@ Additionally, it is abundantly clear from the Court’s statements that a firm h
 
 > _Note:_ This comment imposes an important limitation on a district court’s remedial powers. There are limits to what courts can impose. In this case the Court says they should not be too burdensome.
 
-> _Themes_: Remedies
+> _Themes_: {Remedies}
 
 “The reference in § 2 to an attempt to monopolize ‘any part of the trade or commerce among the several States’ relates not merely to interstate commerce within any geographical part of the United States but also to any appreciable part of such interstate commerce.”[^40]
 
@@ -206,7 +207,7 @@ Additionally, it is abundantly clear from the Court’s statements that a firm h
 
 > _Note:_ The Court affirms/adopts a broad interpretation of the language in Section 2 concerning its legal reach, which is tied to the reach of the Commerce Clause of the Constitution.
 
-> _Themes_: Relevant Market, Interstate Commerce Clause
+> _Themes_: {Relevant Market}, {Interstate Commerce Clause}
 
 # Disclosure About Case Briefs
 
