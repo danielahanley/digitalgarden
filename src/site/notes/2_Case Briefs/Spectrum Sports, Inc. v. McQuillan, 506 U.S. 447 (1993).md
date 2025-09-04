@@ -61,15 +61,15 @@ McQuillan v. Sorbothane, Inc., 907 F.2d 154 (9th Cir. 1990), *rev'd sub nom.* Sp
 
 # Facts
 
-Spectrum Sports and the McQuillan's (d.b.a., Sorboturf Enterprises) were distributors of products made from a patented elastic polymer called Sorbothane which could be used in various medica, athletic, and equestrian products.[^2] 
+Spectrum Sports and the McQuillans (d.b.a., Sorboturf Enterprises) were distributors of products made from a patented elastic polymer called Sorbothane which could be used in various medical, athletic, and equestrian products.[^2] 
 
-The intellectual property rights to sorbothane are owned by BTR, Inc. {BTR}).[^3] In 1982, BTR switched its distribution from five regional companies to one national distributor.[^4] The McQuillan's were selected to be the distributors of all sorbothane products.[^5] 
+The intellectual property rights to sorbothane are owned by BTR, Inc. {BTR}).[^3] In 1982, BTR switched its distribution from five regional companies to one national distributor.[^4] The McQuillans were selected to be the distributors of all sorbothane products.[^5] 
 
-As a condition of the distribution contract, BTR wanted the McQuillan's to divest their athletic shoe distributorship.[^6] The McQuillan's refused.[^7] BTR then refused to sell sorbothane to the McQuillan's.[^8] The McQuillan's business subsequently failed.[^9] Spectrum Sports then became the national distributor of sorbothane athletic shoe inserts.[^10] The McQuillan's sued.
+As a condition of the distribution contract, BTR wanted the McQuillans to divest their athletic shoe distributorship.[^6] The McQuillans refused.[^7] BTR then refused to sell sorbothane to the McQuillans.[^8] The McQuillans business subsequently failed.[^9] Spectrum Sports then became the national distributor of sorbothane athletic shoe inserts.[^10] The McQuillans sued.
 
 The Ninth Circuit Court of Appeals affirmed a jury verdict, and found - because the verdict did not specify the actual violation (i.e., monopolized, attempted to monopolize, or conspired to monopolize) - that an attempted monopolization claim had been established.[^11] 
 
-The Ninth Circuit also held that it was not necessary for the plaintiff to show that the defendant had specific intent to monopolize a relevant market and that a plaintiff did not have to "present evidence of the relevant market or of the defendants' market power."[^12] Instead, the Ninth Circuit allowed the jury to inferred that the defendant had specific intent and a dangerous probability of success because there was "sufficient evidence from which the jury could conclude that {the defendants} engaged in unfair or predatory conduct{.}"[^13]
+The Ninth Circuit also held that it was not necessary for the plaintiff to show that the defendant had specific intent to monopolize a relevant market and that a plaintiff did not have to "present evidence of the relevant market or of the defendants' market power."[^12] Instead, the Ninth Circuit allowed the jury to infer that the defendant had specific intent and a dangerous probability of success because there was "sufficient evidence from which the jury could conclude that {the defendants} engaged in unfair or predatory conduct{.}"[^13]
 
 # Legal Question(s)
 
@@ -111,6 +111,7 @@ For a party to be liable for attempted monopolization under § 2 of the Sherman 
 # Open Questions and Implications from the Holding
 
 A central feature of the Supreme Court's holding in Spectrum Sports, Inc. v. McQuillan, 506 U.S. 447 (1993) is that the basis of its opinion (of rejecting the Ninth Circuit’s relaxed standard for attempted monopolization and creating the analysis for an attempted monopolization claim) is derived from statements made in prior decisions, primarily Swift & Co. v. United States, 196 U.S. 375 (1905), Walker Process Equipment, Inc. v. Food Machinery & Chemical Corp., 382 U.S. 172 (1965), and Copperweld Corp. v. Independence Tube Corp., 467 U.S. 752 (1984). This illustrates both the Supreme Court’s desire to adhere to prior holdings and provides a methodology for how the Court synthesizes those holdings to refine (or in its view in *Spectrum Sports*, restate) antitrust doctrine.
+
 # Other Themes and Important Quotes from the Decision
 
 ## Majority Opinion (White)
@@ -192,7 +193,7 @@ This document is not legal advice. Case briefs are merely summations of legal op
 
 - This Brief: https://casebriefs.lawandpower.net/case-briefs/spectrum-sports-inc-v-mc-quillan-506-u-s-447-1993/
 - PowerPoint brief: https://bit.ly/LP-SpectrumSportsvMcQuillan-506US447-1993-PPTX
-- Video Presentation: 
+- Video Presentation: https://youtu.be/mmTVZHN47bg
 - Subscribe to my newsletter: [https://danielhanley.substack.com/](https://danielhanley.substack.com/)
 - Master Antitrust Database: [https://bit.ly/LP-CaseBriefDatabase](https://bit.ly/LP-CaseBriefDatabase)
 - All other links: [https://linktr.ee/danielahanley](https://linktr.ee/danielahanley)
