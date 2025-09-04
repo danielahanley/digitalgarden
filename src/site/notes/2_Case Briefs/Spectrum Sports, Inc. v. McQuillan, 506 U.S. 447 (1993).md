@@ -121,7 +121,7 @@ A central feature of the Supreme Court's holding in Spectrum Sports, Inc. v. McQ
 
 > *Note*: The Supreme Court is stating the kind of conduct that can violate Section 1 and 2 of the Sherman Act. The Supreme Court also notes that Section 1 of the Sherman Act requires multiple parties, whereas Section 2 can target a single firm and multiple firms.
 
-> *Themes*: {Relationship between Section 1 and Section 2 of the Sherman Act}.
+> *Themes*: {{Relationship between Section 1 and Section 2 of the Sherman Act}}.
 
 
 "Section 2 {of the Sherman Act} does not define the elements of the offense of attempted monopolization. Nor is there much guidance to be had in the scant legislative history of that provision, which was added late in the legislative process. The legislative history does indicate that much of the interpretation of the necessarily broad principles of the {Sherman} Act was to be left for the courts in particular cases."[^26] 
@@ -130,7 +130,7 @@ A central feature of the Supreme Court's holding in Spectrum Sports, Inc. v. McQ
 
 > *Note*: This is an important point, but also incomplete and partially incorrect. Yes, during the legislative debates lawmakers did leave much of the administration and application of the Sherman Act to the federal courts. But the Sherman Act did not give the federal courts a blank check. The legislative history details specific kinds of harm that should be targeted and specific kinds of conduct that should be protected.[^27]
 
-> *Themes*: {Construction of the Sherman Act}, {Legislative History}.
+> *Themes*: {{Construction of the Sherman Act}}, {{Legislative History}}.
 
 
 "Similarly, this Court reaffirmed in Copperweld Corp. v. Independence Tube Corp., 467 U.S. 752 (1984), that 'Congress authorized Sherman Act scrutiny of single firms only when they pose a danger of monopolization. Judging unilateral conduct in this manner reduces the risk that the antitrust laws will dampen the competitive zeal of a single aggressive entrepreneur.' Id., at 768. Thus, the conduct of a single firm, governed by § 2, 'is unlawful only when it threatens actual monopolization.' Id., at 767. See also [Lorain Journal Co. v. United States](https://casebriefs.lawandpower.net/case-briefs/lorain-journal-co-v-united-states-342-u-s-143-1951/), 342 U.S. 143, 154 (1951); United States v. Griffith, 334 U. S. 100, 105-106 (1948); American Tobacco Co. v. United States, 328 U. S. 781, 785 (1946)."[^28]
@@ -139,7 +139,7 @@ A central feature of the Supreme Court's holding in Spectrum Sports, Inc. v. McQ
 
 > *Note*: Here the Supreme Court is reaffirming a point from Copperweld Corp. v. Independence Tube Corp., 467 U.S. 752 (1984). While the Supreme Court acknowledges that the Sherman Act fundamentally incentivizes certain kinds of conduct by prohibiting other kinds of conduct, it does not detail exactly what kind of conduct is warranted and lawful beyond the assertion that the conduct should not threaten actual monopolization.
 
-> *Themes*: {Section 2 of the Sherman Act}, {Violations of Section 2 of the Sherman Act}, {Competition}.
+> *Themes*: {{Section 2 of the Sherman Act}}, {{Violations of Section 2 of the Sherman Act}}, {{Competition}}.
 
 
 "The 'any part' clause {in Section 2 of the Sherman Act}, however, applies to charges of monopolization as well as to attempts to monopolize, and it is beyond doubt that the former requires proof of market power in a relevant market."[^29]
@@ -148,7 +148,7 @@ A central feature of the Supreme Court's holding in Spectrum Sports, Inc. v. McQ
 
 > *Note*: The Supreme Court still has to account for when each violation occurs. Meaning, the Supreme Court still needs to define what conduct and evidence is necessary for each violation such that each of them are clearly distinguishable. For example, exactly what conduct makes it an attempt to monopolize rather than just monopolization. The Supreme Court's decision in *Spectrum Sports, Inc. v. McQuillan*, 506 U.S. 447 (1993), only provides parties the analysis required to show a claim, but does not actually establish clear legal boundaries. 
 
-> *Themes*: {Relevant Market}, {Jurisdictional Reach of Section 2 of the Sherman Act}, {Monopolization}, {Attempted Monopolization}, {Section 2 of the Sherman Act}, {Textual Analysis}.
+> *Themes*: {{Relevant Market}}, {{Jurisdictional Reach of Section 2 of the Sherman Act}}, {{Monopolization}}, {{Attempted Monopolization}}, {{Section 2 of the Sherman Act}}, {{Textual Analysis}}.
 
 "{T}here is little, if any, support for it in the statute or the case law, and the notion that proof of unfair or predatory conduct alone is sufficient to make out the offense of attempted monopolization is contrary to the purpose and policy of the Sherman Act."[^30]
 
@@ -156,7 +156,7 @@ A central feature of the Supreme Court's holding in Spectrum Sports, Inc. v. McQ
 
 > *Note*: The Supreme Court here is commenting on the broader analytical frameworks of the Sherman Act and what is necessary for there to be a violation. Here, the Supreme Court is saying that more than injurious conduct to an individual party is necessary for a violation. In general, as elaborated in this decision and many others, parties are required to show harm to "competition" for a violation to occur. It is notable that the Supreme Court acknowledges that conduct that is unfair or predatory (i.e., either one is/could be acceptable) is required for a violation to occur. This is an acknowledgment that unfair conduct can violate the Sherman Act. 
 
-> *Themes*: {Purpose of the Sherman Act}, {Unfair Competition}, {Injury}.
+> *Themes*: {{Purpose of the Sherman Act}}, {{Unfair Competition}}, {{Injury}}.
 
 "{F}ootnote {23 of United States v. E. I. du Pont de Nemours & Co. (*Du Pont*), 351 U.S. 377, 404 (1956)}, which appeared in analysis of the relevant market issue...rejected the Government's reliance on several cases, noting that "the scope of the market was not in issue" in *Story Parchment Co. v. Paterson Parchment Paper Co.*, 282 U.S. 555 (1931). That reference merely reflected the fact that, in *Story Parchment*, which was not an attempt to monopolize case, the parties did not challenge the definition of the market adopted by the lower courts. Nor was *Du Pont* itself concerned with the issue in this case."[^31]
 
@@ -164,7 +164,7 @@ A central feature of the Supreme Court's holding in Spectrum Sports, Inc. v. McQ
 
 > *Note*: The last part of this passage is perhaps the most important part. The Supreme Court expresses, at least here, that it matters what kind of violation was at issue in a particular decision. This directly implicates what kinds of principles can be extracted from a decision and how they are applied to future lawsuits.
 
-> *Themes*: {Relevant Market}, {Fact Fragmentation}.
+> *Themes*: {{Relevant Market}}, {{Fact Fragmentation}}.
 
 
 "The purpose of the {Sherman} Act is not to protect businesses from the working of the market; it is to protect the public from the failure of the market. The law directs itself not against conduct which is competitive, even severely so, but against conduct which unfairly tends to destroy competition itself. It does so not out of solicitude for private concerns but out of concern for the public interest. *See, e. g.,* *Brunswick Corp. v. Pueblo Bowl-O-Mat, Inc.*, 429 U.S. 477, 488 (1977); *Cargill, Inc. v. Monfort of Colorado, Inc.*, 479 U.S. 104, 116-117 (1986); *Brown Shoe Co. v. United States*, 370 U.S. 294, 320 (1962). Thus, this Court and other courts have been careful to avoid constructions of § 2 which might chill competition, rather than foster it."[^32] 
@@ -173,7 +173,7 @@ A central feature of the Supreme Court's holding in Spectrum Sports, Inc. v. McQ
 
 > *Note*: The Court here takes advantage of the vagueness of exactly what kind of "competition" it (or what is supposed to be the Sherman Act) is trying to foster with the enforcement of the Sherman Act. Critically, here, the Supreme Court notes that "unfair" competition - even though this is a Sherman Act decision - is unlawful under the Sherman Act, and, in the last clause of this passage, acknowledges that unfair competition can chill the kind of competition that should be fostered by the Sherman Act. Another point that arises is that the Supreme Court implicitly acknowledges a paradox of private enforcement - they are not just asserting their rights for themselves, but for everyone else. In short, they are doing the work for others, including their competitors. 
 
-> *Themes*: {Purpose of the Sherman Act}, {Competition}, {Unfair Competition}, {Injury}.
+> *Themes*: {{Purpose of the Sherman Act}}, {{Competition}}, {{Unfair Competition}}, {{Injury}}.
 
 
 "It is sometimes difficult to distinguish robust competition from conduct with long-term anticompetitive effects; moreover, single-firm activity is unlike concerted activity covered by § 1, which 'inherently is fraught with anticompetitive risk.' *Copperweld*, 467 U.S., at 767-769. For these reasons, § 2 makes the conduct of a single firm unlawful only when it actually monopolizes or dangerously threatens to do so. *Id.*, at 767. The concern that § 2 might be applied so as to further anticompetitive ends is plainly not met by inquiring only whether the defendant has engaged in 'unfair' or 'predatory' tactics. Such conduct may be sufficient to prove the necessary intent to monopolize, which is something more than an intent to compete vigorously, but demonstrating the dangerous probability of monopolization in an attempt case also requires inquiry into the relevant product and geographic market and the defendant's economic power in that market."[^33]
@@ -182,7 +182,7 @@ A central feature of the Supreme Court's holding in Spectrum Sports, Inc. v. McQ
 
 > *Note*: Here again, the Supreme Court is acknowledging the difficultly of determining and distinguishing between lawful and unlawful conduct, but does not provide much guidance on solving that problem.
 
-> *Themes*: {Purpose of the Sherman Act}, {Competition}, {Relationship between Section 1 and Section 2 of the Sherman Act}, {Competition vs. Cooperation}, {Unfair Competition}, {Injury}.
+> *Themes*: {{Purpose of the Sherman Act}}, {{Competition}}, {{Relationship between Section 1 and Section 2 of the Sherman Act}}, {{Competition vs. Cooperation}}, {{Unfair Competition}}, {{Injury}}.
 
 # Disclosure About Case Briefs
 
