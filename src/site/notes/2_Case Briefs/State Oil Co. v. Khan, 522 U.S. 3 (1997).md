@@ -381,7 +381,7 @@ This document is not legal advice. Case briefs are merely summations of legal op
 
 # Links
 
-- This Brief: 
+- This Brief: https://casebriefs.lawandpower.net/case-briefs/state-oil-co-v-khan-522-u-s-3-1997/
 - Subscribe to my newsletter: [https://danielhanley.substack.com/](https://danielhanley.substack.com/)
 - Master Antitrust Database: [https://bit.ly/LP-CaseBriefDatabase](https://bit.ly/LP-CaseBriefDatabase)
 - All other links: [https://linktr.ee/danielahanley](https://linktr.ee/danielahanley)
