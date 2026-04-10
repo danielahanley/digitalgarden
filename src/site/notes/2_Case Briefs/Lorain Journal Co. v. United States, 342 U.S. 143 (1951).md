@@ -55,6 +55,10 @@ Final Judgment
 
 United States v. Lorain J. Co., 92 F. Supp. 794 (N.D. Ohio 1950), _aff'd sub. nom._, Lorain J. Co. v. United States, 342 U.S. 143 (1951).
 
+# Subsequent History
+
+The legal force of attempted monopolization claims under Section 2 of the Sherman Act was weakened by the Supreme Court's decision in *[Spectrum Sports, Inc. v. McQuillan](https://casebriefs.lawandpower.net/case-briefs/spectrum-sports-inc-v-mc-quillan-506-u-s-447-1993/)*, 506 U.S. 447 (1993); [[2_Case Briefs/Spectrum Sports, Inc. v. McQuillan, 506 U.S. 447 (1993)\|Spectrum Sports]]
+
 # Facts
 
 Between 1933 and 1948, the Lorain Journal (hereinafter “The Journal”) was an Ohio newspaper that engaged in interstate commerce and had “‘a commanding and an overpowering’” market position, occupying a “substantial monopoly” in Lorain, Ohio over the “mass dissemination of news and advertising” – in total covering 99 percent of families in the city.[^1] It was perceived by many advertisers that the Lorain Journal was an essential medium to promote their goods or services.[^2]
