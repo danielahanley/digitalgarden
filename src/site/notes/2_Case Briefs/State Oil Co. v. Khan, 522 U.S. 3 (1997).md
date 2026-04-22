@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"Case Briefs/State Oil Co. v. Khan, 522 U.S. 3 (1997).md","permalink":"/case-briefs/state-oil-co-v-khan-522-u-s-3-1997/","title":"State Oil Co. v. Khan, 522 U.S. 3 (1997)"}
+{"dg-publish":true,"dg-path":"Case Briefs/State Oil Co. v. Khan, 522 U.S. 3 (1997).md","permalink":"/case-briefs/state-oil-co-v-khan-522-u-s-3-1997/","title":"State Oil Co. v. Khan, 522 U.S. 3 (1997)","dg-note-properties":{"title":"State Oil Co. v. Khan, 522 U.S. 3 (1997)","aliases":["State Oil Co. v. Khan, 522 U.S. 3","Khan, 522 U.S. at","Khan"]}}
 ---
 
 # Court
 
-Supreme Court
+<span class="smallcaps">Supreme Court</span>
 
 # Date Decided
 

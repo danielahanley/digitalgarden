@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Case Briefs/Lorain Journal Co. v. United States, 342 U.S. 143 (1951).md","permalink":"/case-briefs/lorain-journal-co-v-united-states-342-u-s-143-1951/","title":"Lorain Journal Co. v. United States, 342 U.S. 143 (1951)"}
+{"dg-publish":true,"dg-path":"Case Briefs/Lorain Journal Co. v. United States, 342 U.S. 143 (1951).md","permalink":"/case-briefs/lorain-journal-co-v-united-states-342-u-s-143-1951/","title":"Lorain Journal Co. v. United States, 342 U.S. 143 (1951)","dg-note-properties":{"title":"Lorain Journal Co. v. United States, 342 U.S. 143 (1951)","aliases":["Lorain Journal Co. v. United States, 342 U.S. 143","Lorain Journal, 342 U.S. at","Lorain Journal"]}}
 ---
 
 
@@ -57,7 +57,7 @@ United States v. Lorain J. Co., 92 F. Supp. 794 (N.D. Ohio 1950), _aff'd sub. no
 
 # Subsequent History
 
-The legal force of attempted monopolization claims under Section 2 of the Sherman Act was weakened by the Supreme Court's decision in *[Spectrum Sports, Inc. v. McQuillan](https://casebriefs.lawandpower.net/case-briefs/spectrum-sports-inc-v-mc-quillan-506-u-s-447-1993/)*, 506 U.S. 447 (1993); [[2_Case Briefs/Spectrum Sports, Inc. v. McQuillan, 506 U.S. 447 (1993)\|Spectrum Sports]]
+The legal force of attempted monopolization claims under Section 2 of the Sherman Act was weakened by the Supreme Court's decision in [[2_Case Briefs/Spectrum Sports, Inc. v. McQuillan, 506 U.S. 447 (1993)\|Spectrum Sports, Inc. v. McQuillan, 506 U.S. 447 (1993)]].
 
 # Facts
 

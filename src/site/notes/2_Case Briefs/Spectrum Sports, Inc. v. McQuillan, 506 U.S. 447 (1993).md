@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Case Briefs/Spectrum Sports, Inc. v. McQuillan, 506 U.S. 447 (1993).md","permalink":"/case-briefs/spectrum-sports-inc-v-mc-quillan-506-u-s-447-1993/","title":"Spectrum Sports, Inc. v. McQuillan, 506 U.S. 447 (1993)"}
+{"dg-publish":true,"dg-path":"Case Briefs/Spectrum Sports, Inc. v. McQuillan, 506 U.S. 447 (1993).md","permalink":"/case-briefs/spectrum-sports-inc-v-mc-quillan-506-u-s-447-1993/","title":"Spectrum Sports, Inc. v. McQuillan, 506 U.S. 447 (1993)","dg-note-properties":{"title":"Spectrum Sports, Inc. v. McQuillan, 506 U.S. 447 (1993)","aliases":["Spectrum Sports, Inc. v. McQuillan, 506 U.S. 447","Spectrum Sports, 506 U.S. at","Spectrum Sports"]}}
 ---
 
 
