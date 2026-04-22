@@ -4,8 +4,8 @@
 
 # Court
 
-<span class="smallcaps">Supreme Court</span>
-This is a test
+Supreme Court
+
 # Date Decided
 
 November 4, 1997
