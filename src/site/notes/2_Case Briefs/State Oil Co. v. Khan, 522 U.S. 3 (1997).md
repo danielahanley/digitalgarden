@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Case Briefs/State Oil Co. v. Khan, 522 U.S. 3 (1997).md","permalink":"/case-briefs/state-oil-co-v-khan-522-u-s-3-1997/","title":"State Oil Co. v. Khan, 522 U.S. 3 (1997)","dg-note-properties":{"title":"State Oil Co. v. Khan, 522 U.S. 3 (1997)","aliases":["State Oil Co. v. Khan, 522 U.S. 3","Khan, 522 U.S. at","Khan"]}}
+{"dg-publish":true,"dg-path":"Case Briefs/State Oil Co. v. Khan, 522 U.S. 3 (1997).md","permalink":"/case-briefs/state-oil-co-v-khan-522-u-s-3-1997/","title":"State Oil Co. v. Khan, 522 U.S. 3 (1997)","dg-note-properties":{"title":"State Oil Co. v. Khan, 522 U.S. 3 (1997)","aliases":["Court","State Oil Co. v. Khan, 522 U.S. 3","Khan, 522 U.S. at","Khan"]}}
 ---
 
 # Court
@@ -391,89 +391,175 @@ This document is not legal advice. Case briefs are merely summations of legal op
 # Footnotes
 
 [^1]: State Oil Co. v. Khan, 522 U.S. 3, 7 (1997).
+
 [^2]: State Oil Co. v. Khan, 522 U.S. 3, 7-8 (1997).
+
 [^3]: State Oil Co. v. Khan, 522 U.S. 3, 8 (1997).
+
 [^4]: State Oil Co. v. Khan, 522 U.S. 3, 8 (1997).
+
 [^5]: State Oil Co. v. Khan, 522 U.S. 3, 8 (1997).
+
 [^6]: State Oil Co. v. Khan, 522 U.S. 3, 8 (1997).
+
 [^7]: State Oil Co. v. Khan, 522 U.S. 3, 8 (1997) (“Respondents sued State Oil in the United States District Court for the Northern District of Illinois, alleging in part that State Oil had engaged in price fixing in violation of § 1 of the Sherman Act by preventing respondents from raising or lowering retail gas prices. According to the complaint, but for the agreement with State Oil, respondents could have charged different prices based on the grades of gasoline, in the same way that the receiver had, thereby achieving increased sales and profits. State Oil responded that the agreement did not actually prevent respondents from setting gasoline prices, and that, in substance, respondents did not allege a violation of antitrust laws by their claim that State Oil's suggested retail price was not optimal.”).
+
 [^8]: State Oil Co. v. Khan, 522 U.S. 3, 9 (1997).
+
 [^9]: State Oil Co. v. Khan, 522 U.S. 3, 9 (1997).
+
 [^10]: State Oil Co. v. Khan, 522 U.S. 3, 9 (1997).
+
 [^11]: State Oil Co. v. Khan, 522 U.S. 3, 9 (1997).
+
 [^12]: State Oil Co. v. Khan, 522 U.S. 3, 12 (1997) (The {_Albrecht_} decision arose because the Supreme Court was “{i}nfluenced by its decisions in _Socony-Vacuum_, _Kiefer-Stewart_, and _Schwinn_{.}”).
+
 [^13]: State Oil Co. v. Khan, 522 U.S. 3, 12 (1997).
+
 [^14]: State Oil Co. v. Khan, 522 U.S. 3, 16 (1997) (“The _Albrecht_ decision was grounded in the fear that maximum price fixing by suppliers could interfere with dealer freedom.”).
+
 [^15]: State Oil Co. v. Khan, 522 U.S. 3, 17 (1997) (_Albrecht_ was concerned that allowing maximum vertical price-fixing would facilitating minimum vertical price-fixing, thus necessitating per se treatment, however such concerns “can be appropriately recognized and punished under the rule of reason.”). **Note:** Minimum vertical price-fixing (at the time of this decision) was a long prohibited practice under the federal antitrust laws. Dr. Miles Med. Co. v. John D. Park & Sons Co., 220 U.S. 373, 408 (1911), *overruled by* Leegin Creative Leather Prods., Inc. v. PSKS, Inc., 551 U.S. 877 (2007)
+
 [^16]: State Oil Co. v. Khan, 522 U.S. 3, 20 (1997) (“In the area of antitrust law, there is a competing interest, well represented in this Court's decisions, in recognizing and adapting to changed circumstances and the lessons of accumulated experience.”); State Oil Co. v. Khan, 522 U.S. 3, 20-21 (1997) (“{T}he general presumption that legislative changes should be left to Congress has less force with respect to the Sherman Act in light of the accepted view that Congress ‘expected the courts to give shape to the statute's broad mandate by drawing on common-law tradition.’”) (quoting National Society of Professional Engineers v. United States, 435 U.S. 679, 688 (1978)). **Note**: The Court here assumes the meaning of exactly what the "common law tradition" is know and self-evident. It is not. Subsequent research has shown that the common law tradition had a specific framing, that of the moral economy. *See* Sanjukta Paul, *Recovering the Moral Economy Foundations of the Sherman Act*, 131 Yale L.J. 175 (2021).
+
 [^17]: State Oil Co. v. Khan, 522 U.S. 3, 22 (1997) (Reevaluation of a prior precedent is also reasonable when a decision’s holding (in this case _Albrecht_) has been “eroded by this Court's {other} precedent{s}.”).
+
 [^18]: State Oil Co. v. Khan, 522 U.S. 3, 21 (1997) (“_Albrecht_ has been widely criticized since its inception.”); State Oil Co. v. Khan, 522 U.S. 3, 16 (1997) (“criticism of {_Albrecht’s_} premises abounds.”); State Oil Co. v. Khan, 522 U.S. 3, 22 (1997) (_“Albrecht{’s}_…conceptual foundations {have been} gravely weakened {since the holding}.”); State Oil Co. v. Khan, 522 U.S. 3, 19 (1997) (“_Albrecht_…relied solely upon hypothetical effects of vertical maximum price fixing.”); State Oil Co. v. Khan, 522 U.S. 3, 19 (1997) (In general _Albrecht’s_ rule “lacks adequate justification.”).
+
 [^19]: State Oil Co. v. Khan, 522 U.S. 3, 21-22 (1997) (“Although the rule of *Albrecht* has been in effect for some time, the inquiry we must undertake requires considering ‘ ‘the effect of the antitrust laws upon vertical distributional restraints in the American economy today.’’”) (citing Continental TV, Inc. v. GTE Sylvania Inc., 433 U.S. 36, 53, n. 21 (1977) (quoting United States v. Arnold, Schwinn & Co. et al., 388 U.S. 365, 392 (1967) (Stewart, J., concurring in part and dissenting in part))). **Note: That the Court does not explicitly state this factor, but it is implied given the analysis the court does in the opinion.** 
+
 [^20]: State Oil Co. v. Khan, 522 U.S. 3, 14 (1997).
+
 [^21]: State Oil Co. v. Khan, 522 U.S. 3, 14 (1997) (“Subsequent decisions of the Court, {including _Maricopa County_, 457 U.S., at 348, n. 18 (1982), and _324 Liquor Corp. v. Duffy_, 479 U.S. 335, 341-342 (1987), and *Atlantic Richfield Co. v. USA Petroleum Co. (ARCO),* 495 U.S. 328 (1990) – where ‘some disfavor with that decision was signaled’,} however, have hinted that the analytical underpinnings of _Albrecht_ were substantially weakened by {*Continental T. V., Inc. v. GTE Sylvania Inc.*, 433 U.S. 36 , 47-49 (1977)}.”).
+
 [^22]: State Oil Co. v. Khan, 522 U.S. 3, 18 (1997) (“_Albrecht_ has little or no relevance to ongoing enforcement of the Sherman Act.”) (citing Copperweld Corp. v. Independence Tube Corp., 467 U.S. 752, 777, and n. 25 (1984)).
+
 [^23]: State Oil Co. v. Khan, 522 U.S. 3, 18-19 (1997).
+
 [^24]: State Oil Co. v. Khan, 522 U.S. 3, 15-16 (1997) (quoting 93 F. 3d 1358 (1996) (Posner, J.)).
+
 [^25]: State Oil Co. v. Khan, 522 U.S. 3, 19 (1997).
+
 [^26]: State Oil Co. v. Khan, 522 U.S. 3, 15-16 (1997) (quoting 93 F. 3d 1358 (1996) (Posner, J.)).
+
 [^27]: State Oil Co. v. Khan, 522 U.S. 3, 15-16 (1997) (quoting 93 F. 3d 1358 (1996) (Posner, J.)).
+
 [^28]: State Oil Co. v. Khan, 522 U.S. 3, 17 (1997).
+
 [^29]: State Oil Co. v. Khan, 522 U.S. 3, 19 (1997) (“_Albrecht's_ dire predictions have not been borne out, even though manufacturers and suppliers appear to have fashioned schemes to get around the per se rule against vertical maximum price fixing.”); State Oil Co. v. Khan, 522 U.S. 3, 17-19 (1997) (listing the harms of fixing vertical maximum prices as detailed in _Albrecht_).
+
 [^30]: State Oil Co. v. Khan, 522 U.S. 3, 18 (1997) (_Albrecht's_ decision exacerbates the harms to competition cited in this opinion because of the _Sylvania_ decision because the legality of vertical non-price restraints and illegality of maximum vertical price-fixing increases “the likelihood of dealer monopoly power.”).
+
 [^31]: State Oil Co. v. Khan, 522 U.S. 3, 18 (1997) (“Not only are the potential injuries cited in _Albrecht_ less serious than the Court imagined, the per se rule established therein could in fact exacerbate problems related to the unrestrained exercise of market power by monopolist-dealers. Indeed, both courts and antitrust scholars have noted that *Albrecht's* rule may actually harm consumers and manufacturers.”).
+
 [^32]: State Oil Co. v. Khan, 522 U.S. 3, 17 (1997) (“_Albrecht_ noted that vertical maximum price fixing could effectively channel distribution through large or specially advantaged dealers. It is unclear, however, that a supplier would profit from limiting its market by excluding potential dealers. Further, although vertical maximum price fixing might limit the viability of inefficient dealers, that consequence is not necessarily harmful to competition and consumers.”).
+
 [^33]: State Oil Co. v. Khan, 522 U.S. 3, 16 (1997) (Firms have been encouraged to “integrate forward into distribution, thus eliminating the very independent trader for whom _Albrecht_ professed solicitude. For example, integration in the newspaper industry since _Albrecht_ has given rise to litigation between independent distributors and publishers.”) (quoting 8 P. Areeda, Antitrust Law ¶ 1635, p. 395 (1989) and citing P. Areeda & H. Hovenkamp, supra, ¶ 729.7, pp. 599-614 (1996 Supp.)).
+
 [^34]: State Oil Co. v. Khan, 522 U.S. 3, 17 (1997).
+
 [^35]: State Oil Co. v. Khan, 522 U.S. 3, 22 (1997).
+
 [^36]: State Oil Co. v. Khan, 522 U.S. 3, 22 (1997) (“In overruling _Albrecht_, we of course do not hold that all vertical maximum price fixing is per se lawful. Instead, vertical maximum price fixing, like the majority of commercial arrangements subject to the antitrust laws, should be evaluated under the rule of reason.”).
+
 [^37]: State Oil Co. v. Khan, 522 U.S. 3, 16 (1997).
+
 [^38]: Continental TV, Inc. v. GTE Sylvania Inc., 433 U.S. 36, 51 n. 19 (1977).
+
 [^39]: State Oil Co. v. Khan, 522 U.S. 3, 18 (1997) (“Indeed, both courts and antitrust scholars have noted that *Albrecht's* rule may actually harm consumers and manufacturers.”).
+
 [^40]: State Oil Co. v. Khan, 522 U.S. 3, 10 (1997).
+
 [^41]: State Oil Co. v. Khan, 522 U.S. 3, 14 (1997) (quoting Continental T. V., Inc. v. GTE Sylvania Inc., 433 U.S. 36, 58-59 (1977)).
+
 [^42]: State Oil Co. v. Khan, 522 U.S. 3, 14 (1997).
+
 [^43]: State Oil Co. v. Khan, 522 U.S. 3, 18 (1997).
+
 [^44]: State Oil Co. v. Khan, 522 U.S. 3, 15 (1997).
+
 [^45]: State Oil Co. v. Khan, 522 U.S. 3, 10 (1997).
+
 [^46]: State Oil Co. v. Khan, 522 U.S. 3, 10 (1997) (citing Arizona v. Maricopa County Medical Society, 457 U.S. 332, 343, n. 13 (1982) (citing Board of Trade of Chicago v. United States, 246 U.S. 231, 238 (1918)).
+
 [^47]: State Oil Co. v. Khan, 522 U.S. 3, 22 (1997) (“In overruling _Albrecht_, we of course do not hold that all vertical maximum price fixing is per se lawful.”).
+
 [^48]: State Oil Co. v. Khan, 522 U.S. 3, 17 (1997).
+
 [^49]: State Oil Co. v. Khan, 522 U.S. 3, 22 (1997) (emphasis added).
+
 [^50]: State Oil Co. v. Khan, 522 U.S. 3, 17 (1997).
+
 [^51]: State Oil Co. v. Khan, 522 U.S. 3, 10 (1997).
+
 [^52]: State Oil Co. v. Khan, 522 U.S. 3, 22 (1997).
+
 [^53]: State Oil Co. v. Khan, 522 U.S. 3, 20 (1997).
+
 [^54]: State Oil Co. v. Khan, 522 U.S. 3, 20 (1997) (citing Agostini v. Felton, 521 U.S. 203, 235 (1997) (quoting Burnet v. Coronado Oil & Gas Co., 285 U.S. 393, 406 (1932) (Brandeis, J., dissenting))).
+
 [^55]: State Oil Co. v. Khan, 522 U.S. 3, 20 (1997) (quoting Payne v. Tennessee, 501 U.S. 808, 827 (1991)).
+
 [^56]: State Oil Co. v. Khan, 522 U.S. 3, 20 (1997) (citing Illinois Brick Co. v. Illinois, 431 U.S. 720, 736 (1977)).
+
 [^57]: State Oil Co. v. Khan, 522 U.S. 3, 20 (1997) (citing Payne v. Tennessee, 501 U.S. 808, 828 (1991)).
+
 [^58]: State Oil Co. v. Khan, 522 U.S. 3, 20 (1997) (quoting Payne v. Tennessee, 501 U.S. 808, 828 (1991)).
+
 [^59]: State Oil Co. v. Khan, 522 U.S. 3, 16 (1997); State Oil Co. v. Khan, 522 U.S. 3, 13 (1997) (quoting Continental T. V., Inc. v. GTE Sylvania Inc., 433 U.S. 36 , 47-49 (1977) (“The great weight of scholarly opinion has been critical of the decision, and a number of the federal courts confronted with analogous vertical restrictions have sought to limit its reach. In our view, the experience of the past 10 years should be brought to bear on this subject of considerable commercial importance.”); State Oil Co. v. Khan, 522 U.S. 3, 13 (1997) (stating in Continental T. V., Inc. v. GTE Sylvania Inc., 433 U.S. 36, 54-57 (1977), “The Court...reviewed scholarly works supporting the economic utility of vertical nonprice restraints.”).
+
 [^60]: State Oil Co. v. Khan, 522 U.S. 3, 21 (1997). 
+
 [^61]: State Oil Co. v. Khan, 522 U.S. 3, 20 (1997).
+
 [^62]: State Oil Co. v. Khan, 522 U.S. 3, 20-21 (1997) (quoting National Soceity of Professional Engineers v. United States, 435 U.S. 679, 688 (1978)).
+
 [^63]: Sanjukta Paul, *Recovering the Moral Economy Foundations of the Sherman Act*, 131 Yale L.J. 175 (2021).
+
 [^64]: State Oil Co. v. Khan, 522 U.S. 3, 14 (1997).
+
 [^65]: State Oil Co. v. Khan, 522 U.S. 3, 18 (1997) (citing Copperweld Corp. v. Independence Tube Corp., 467 U.S. 752, 777, and n. 25 (1984)).
+
 [^66]: State Oil Co. v. Khan, 522 U.S. 3, 18-19 (1997).
+
 [^67]: State Oil Co. v. Khan, 522 U.S. 3, 21-22 (1997) (citing See, e. g., Neal v. United States, 516 U.S. 284, 295 (1996); Patterson v. McLean Credit Union, 491 U.S. 164, 173 (1989); Rodriguez de Quijas v. Shearson/American Express, Inc., 490 U.S. 477, 480-481 (1989))
+
 [^68]: State Oil Co. v. Khan, 522 U.S. 3, 21 (1997).
+
 [^69]: State Oil Co. v. Khan, 522 U.S. 3, 16 (1997).
+
 [^70]: State Oil Co. v. Khan, 522 U.S. 3, 22 (1997).
+
 [^71]: State Oil Co. v. Khan, 522 U.S. 3, 19 (1997).
+
 [^72]: State Oil Co. v. Khan, 522 U.S. 3, 19 (1997).
+
 [^73]: State Oil Co. v. Khan, 522 U.S. 3, 15-16 (1997) (quoting 93 F. 3d 1358 (1996) (Posner, J.)).
+
 [^74]: State Oil Co. v. Khan, 522 U.S. 3, 15-16 (1997) (quoting 93 F. 3d 1358 (1996) (Posner, J.)).
+
 [^75]: State Oil Co. v. Khan, 522 U.S. 3, 15-16 (1997) (quoting 93 F. 3d 1358 (1996) (Posner, J.)).
+
 [^76]: State Oil Co. v. Khan, 522 U.S. 3, 17 (1997).
+
 [^77]: State Oil Co. v. Khan, 522 U.S. 3, 21-22 (1997) (citing *Continental TV, Inc. v. GTE Sylvania Inc.*, 433 U.S. 36, 53 n. 21 (1977) (quoting United States v. Arnold, Schwinn & Co. et al., 388 U.S. 365, 392 (1967) (Stewart, J., concurring in part and dissenting in part))).
+
 [^78]: State Oil Co. v. Khan, 522 U.S. 3, 19 (1997).
+
 [^79]: State Oil Co. v. Khan, 522 U.S. 3, 18 (1997).
+
 [^80]: State Oil Co. v. Khan, 522 U.S. 3, 17 (1997).
+
 [^81]: State Oil Co. v. Khan, 522 U.S. 3, 18 (1997) (citing see, e.g., Frank Easterbrook, Maximum Price Fixing, 48 U. Chi. L. Rev. 886, 890, n. 20 (1981); see also Atlantic Richfield Co. v. USA Petroleum Co. (*ARCO*), 95 U.S. 328, 343 n. 13 (1990)).
+
 [^82]: State Oil Co. v. Khan, 522 U.S. 3, 16 (1997) (quoting 8 P. Areeda, Antitrust Law ¶ 1635, p. 395 (1989) and citing P. Areeda & H. Hovenkamp, supra, ¶ 729.7, pp. 599-614 (1996 Supp.)).
+
 [^83]: State Oil Co. v. Khan, 522 U.S. 3, 19 (1997).
+
 [^84]: State Oil Co. v. Khan, 522 U.S. 3, 19 (1997) (quoting Flood v. Kuhn, 407 U.S. 258, 282 (1972)).
+
 [^85]: State Oil Co. v. Khan, 522 U.S. 3, 19 (1997).
+
 [^86]: State Oil Co. v. Khan, 522 U.S. 3, 19 (1997).
+
 [^87]: State Oil Co. v. Khan, 522 U.S. 3, 20 (1997).
