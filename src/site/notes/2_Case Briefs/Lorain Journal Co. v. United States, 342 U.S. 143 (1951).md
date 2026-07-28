@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Case Briefs/Lorain Journal Co. v. United States, 342 U.S. 143 (1951).md","permalink":"/case-briefs/lorain-journal-co-v-united-states-342-u-s-143-1951/","title":"Lorain Journal Co. v. United States, 342 U.S. 143 (1951)","dg-note-properties":{"title":"Lorain Journal Co. v. United States, 342 U.S. 143 (1951)","aliases":["Lorain Journal Co. v. United States, 342 U.S. 143","Lorain Journal, 342 U.S. at","Lorain Journal"]}}
+{"dg-publish":true,"dg-path":"Case Briefs/Lorain Journal Co. v. United States, 342 U.S. 143 (1951).md","permalink":"/case-briefs/lorain-journal-co-v-united-states-342-u-s-143-1951/","title":"Lorain Journal Co. v. United States, 342 U.S. 143 (1951)","dg-note-properties":{"title":"Lorain Journal Co. v. United States, 342 U.S. 143 (1951)","aliases":["Lorain Journal Co. v. United States, 342 U.S. 143","Lorain Journal, 342 U.S. at","Lorain Journal"],"author":"Daniel A. Hanley","date":"2026-05-13"}}
 ---
 
 
@@ -172,6 +172,7 @@ Additionally, it is abundantly clear from the Court’s statements that a firm h
 > _Plain Meaning_: A successful attempt to monopolize claim does not need to show that the challenged conduct actually succeeded in its intended goal.
 
 > _Themes_: {{Elements of a Section 2 Violation}}, {{Attempted Monopolization}}, {{Incipiency of the Sherman Act}}.
+> #ElementsOfASection2Violation #AttemptedMonopolization #IncipiencyOfTheShermanAct
 
 “Assuming the interstate character of the commerce involved, it seems clear that if all the newspapers in a city, in order to monopolize the dissemination of news and advertising by eliminating a competing radio station, conspired to accept no advertisements from anyone who advertised over that station, they would violate §§ 1 and 2 of the Sherman Act. It is consistent with that result to hold here that a single newspaper, already enjoying a substantial monopoly in its area, violates the ‘attempt to monopolize’ clause of § 2 when it uses its monopoly to destroy threatened competition.”[^36]
 
