@@ -17,30 +17,30 @@ November 4, 1997
 # Victory For
 
 Defendant
-
+#Victory/Defendant 
 # Conduct at Issue
 
 Vertical Maximum Price-Fixing
-
+#ConductAtIssue/VerticalMaximumPrice-Fixing
 # Industry
 
 Petroleum
-
+#Industry/Petroleum
 # Themes and Important Topics
 
-- Stare Decisis
-- The Rule of Reason
-- Per Se Rules
-- Vertical Restraints
-- Substance Over Form
-- Purpose of the Antitrust Laws
-- Section 1 of the Sherman Act
-- Legality of Vertical Restraints
+- Stare Decisis #Theme/StareDecisis
+- The Rule of Reason #Theme/RuleofReason
+- Per Se Rules #Theme/PerSeRules
+- Vertical Restraints #Theme/VerticalRestraints
+- Substance Over Form #Theme/SubstaceOverForm
+- Purpose of the Antitrust Laws #Theme/PurposeOfTheAntitrustLaws
+- Section 1 of the Sherman Act #Theme/Section1OfTheShermanAct 
+- Legality of Vertical Restraints #Theme/LegalityOfVerticalRestraints 
 
 # Statute(s) at Issue
 
 Section 1 of the Sherman Act, 15 U.S.C. § 1.
-
+#Statute/Section1OfTheShermanAct
 # Procedural Posture
 
 Summary Judgment
@@ -175,13 +175,13 @@ Ultimately, the Court states that *Albrecht’s* concerns “can be appropriatel
 
 Conduct prohibited by the antitrust laws should not harm “consumers and manufacturers.”[^39] 
 
->*Themes*: {{Purpose of the Antitrust Laws}}
+>*Themes*: #Theme/PurposeOfTheAntitrustLaws
 
 ### Section 1 of the Sherman Act
 
 “{With Section 1 of the Sherman Act,} Congress intended to outlaw only unreasonable restraints.”[^40] 
 
->*Themes*: {{Section 1 of the Sherman Act}}
+>*Themes*: #Theme/Section1OfTheShermanAct
 
 >*Note*: The definition of "unreasonable" should not be taken as self-evident. 
 
@@ -193,13 +193,13 @@ Affirming its statement in *Continental TV, Inc. v. GTE Sylvania Inc.*, 433 U.S.
 
 >*Note*: The Court here does not exactly say what specific kind of economic analysis is required. There is no standard form of economic analysis. And, even, to the exist there is, economic analysis is highly dependent on the selected assumptions that form the basis of the analysis and the weight of those assumptions. 
 
->*Themes*: {{Substance Over Form}}, {{Per Se Rules}}, {{The Rule of Reason}}
+>*Themes*: #Theme/SubstanceOverForm #Theme/PerSeRules #Theme/TheRuleOfReason
 
 ### Legality of Vertical Restraints
 
 Citing *Arizona v. Maricopa County Medical Society*, 457 U.S. 332 (1982), *324 Liquor Corp. v. Duffy*, 479 U.S. 335 (1987), and *Continental TV, Inc. v. GTE Sylvania Inc.*, 433 U.S. 36 (1977), the Court stated that “Vertical restraints are generally more defensible than horizontal restraints.”[^42]
 
->*Themes*: {{Legality of Vertical Restraints}}
+>*Themes*: #Theme/LegalityOfVerticalRestraints #Theme/VerticalRestraints
 >
 >*Note*: The reasoning for this assertion is explained in the decisions cited to support this statement.
 
@@ -211,7 +211,7 @@ Citing *Arizona v. Maricopa County Medical Society*, 457 U.S. 332 (1982), *324 L
 
 Among other considerations, per se rules must show “harm consumers or competition to the extent necessary to justify their per se invalidation.”[^44]
 
->*Themes*: {{Per Se Rules}}
+>*Themes*: #Theme/PerSeRules 
 
 ### The Rule of Reason
 
@@ -225,7 +225,7 @@ The determination of whether a specific method of competition is unreasonable re
 
 >*Note*: "Effect" here presumably means "economic effect."
 >
->*Themes*: {{The Rule of Reason}}
+>*Themes*: #Theme/TheRuleOfReason 
 
 #### Purpose and Effect of the Rule of Reason Analysis
 
@@ -233,7 +233,7 @@ The Court expressly identifies that conduct reviewed under the rule of reason do
 
 >*Note*: Clearly, the Supreme Court believes the rule of reason is not supposed to result in per se legality, even though future empirical evidence cited above in this brief shows that it has.
 
->*Themes*: {{The Rule of Reason}}
+>*Themes*: #Theme/TheRuleOfReason
 
 #### Conduct to be Reviewed Under the Rule of Reason
 
@@ -243,7 +243,7 @@ The Court expressly identifies that conduct reviewed under the rule of reason do
 
 >*Note*: Again the Court is emphasizing that the rule of reason is the default analysis. 
 >
->*Themes*: {{The Rule of Reason}}
+>*Themes*: #Theme/TheRuleOfReason
 
 ### Stare Decisis and Consideration of Prior Precedents
 
@@ -261,7 +261,7 @@ The Court has also “acknowledged that stare decisis concerns are at their acme
 
 “‘{S}tare decisis is not an inexorable command.’”[^58]
 
->*Themes*: {{Stare Decisis}}
+>*Themes*: #Theme/StareDecisis
 >
 >*Note:* The Court here is establishing the baseline rules regarding stare decisis for statutes. However, as the Court argues below, the antitrust laws, specifically the Sherman Act, (conveniently for the justices) have a different set stare decisis rules.
 
@@ -284,7 +284,7 @@ theoretical underpinnings of those decisions are called into serious question.�
 
 > *Note*: Notice the maneuver the Court has done. In this decision, the Court has spent considerable space explaining the importance of stare decisis, and concludes that the rules and guidance it has laid out, do not fully apply to the Sherman Act. Also here, the Court takes for granted here what the "common-law tradition" means. Subsequent research has shown that the common law tradition had a specific framing, that of the moral economy.[^63] 
 > 
->*Themes*: {{Stare Decisis}}
+>*Themes*: #Theme/StareDecisis
 
 ##### On the Basis of Prior Decisions
 
@@ -296,7 +296,7 @@ theoretical underpinnings of those decisions are called into serious question.�
 
 Reevaluation of a prior precedent is also reasonable when a decision’s holding (in this case *Albrecht*) has been “eroded by this Court's {other} precedent{s}.”[^67]
 
->*Themes*: {{Stare Decisis}}
+>*Themes*: #Theme/StareDecisis
 >
 >*Note*: The Court cites several decisions which basically say that developments/changes in the understanding and application of the law authorize the Court to change its precedents and that Congress can always act to modify its decision.
 
@@ -314,7 +314,7 @@ Reevaluation of a prior precedent is also reasonable when a decision’s holding
 
 In general *Albrecht’s* rule “lacks adequate justification.”[^72]
 
->*Themes*: {{Stare Decisis}}
+>*Themes*: #Theme/StareDecisis
 
 ###### The Scholarship That Undermines the Prior Decision
 
@@ -330,7 +330,7 @@ While *Albrecht* worried that setting maximum prices might make it difficult for
 
 >*Note*: The Court's determination of what is or is not (ostensibly rational) business judgment is based on narrowly defined, and highly sensitive assumptions based on Chicago School economics. 
 
->*Themes*: {{Stare Decisis}}
+>*Themes*: #Theme/StareDecisis
 
 ##### On the Basis of the Effect of the Previous Holding
 
@@ -354,7 +354,7 @@ For example, “*Albrecht* noted that vertical maximum price fixing could effect
 
 Due to *Albrecht's* rule, according to the Supreme Court, firms have been encouraged to “integrate forward into distribution, thus eliminating the very independent trader for whom *Albrecht* professed solicitude. For example, integration in the newspaper industry since *Albrecht* has given rise to litigation between independent distributors and publishers.”[^82]
 
->*Themes*: {{Stare Decisis}}
+>*Themes*: #Theme/StareDecisis
 
 #### Considerations of Asserted Analogous Precedents
 
@@ -364,7 +364,7 @@ Additionally, because the baseball exemption is so unique, the lack of a legisla
 
 > *Note*: Here the Supreme Court is creating a quasi-exemption for how prior precedent can be used. The Supreme Court states that "unique" precedent means it is inherently less valuable as guidance.
 > 
->*Themes*: {{Stare Decisis}}
+>*Themes*: #Theme/StareDecisis
 
 #### Instructions for Lower Courts Regarding Stare Decisis
 
@@ -372,7 +372,7 @@ Additionally, because the baseball exemption is so unique, the lack of a legisla
 
 >*Note*: The directive requires lower courts to adhere to controlling precedent, despite the changing circumstances and understanding of the law.
 
->*Themes*: {{Stare Decisis}}
+>*Themes*: #Theme/StareDecisis
 
 # Disclosure About Case Briefs
 
