@@ -113,7 +113,7 @@ Simply put, dissemination of news or actions done for that purpose, and national
 
 **Rationale:** 
 
-First, “{t}he most illuminating” fact for the determination that the conduct is an unlawful attempt to monopolize is the “substantial monopoly” the Journal had – amounting it to being “an indispensable medium of advertising for many Lorain concerns.”[^18]
+First, “\[t\]he most illuminating” fact for the determination that the conduct is an unlawful attempt to monopolize is the “substantial monopoly” the Journal had – amounting it to being “an indispensable medium of advertising for many Lorain concerns.”[^18]
 
 Second, the district court “found unequivocally” that the Journal’s conduct “amounted to an attempt by the publisher to destroy WEOL and, at the same time, to regain the publisher's pre-1948 substantial monopoly over the mass dissemination of all news and advertising.”[^19]
 
@@ -252,7 +252,7 @@ This document is not legal advice. Case briefs are merely summations of legal op
 
 [^7]: Lorain Journal Co. v. United States, 342 U.S. 143, 148 (1951) (“Under this plan the publisher refused to accept local advertisements in the Journal from any Lorain County advertiser who advertised or who appellants believed to be about to advertise over WEOL.”).
 
-[^8]: Lorain Journal Co. v. United States, 342 U.S. 143, 148-49 (1951) (“The {district} court found expressly that the purpose and intent of this procedure was to destroy the broadcasting company.”); Lorain Journal Co. v. United States, 342 U.S. 143, 150 (1951) (“The findings go further. They expressly and unequivocally state that the publisher's conduct was aimed at a larger target—the complete destruction and elimination of WEOL.”). The district court described Lorain Journal’s conduct as "bold, relentless, and predatory commercial behavior." Lorain Journal Co. v. United States, 342 U.S. 143, 149 (1951) (quoting United States v. Lorain J. Co., 92 F. Supp. 794, 796 (N.D. Ohio 1950)).
+[^8]: Lorain Journal Co. v. United States, 342 U.S. 143, 148-49 (1951) (“The \[district\] court found expressly that the purpose and intent of this procedure was to destroy the broadcasting company.”); Lorain Journal Co. v. United States, 342 U.S. 143, 150 (1951) (“The findings go further. They expressly and unequivocally state that the publisher's conduct was aimed at a larger target—the complete destruction and elimination of WEOL.”). The district court described Lorain Journal’s conduct as "bold, relentless, and predatory commercial behavior." Lorain Journal Co. v. United States, 342 U.S. 143, 149 (1951) (quoting United States v. Lorain J. Co., 92 F. Supp. 794, 796 (N.D. Ohio 1950)).
 
 [^9]: Lorain Journal Co. v. United States, 342 U.S. 143, 149 (1951) (“To carry out appellants' plan, the publisher monitored WEOL programs to determine the identity of the station's local Lorain advertisers.”).
 
@@ -264,7 +264,7 @@ This document is not legal advice. Case briefs are merely summations of legal op
 
 [^13]: Lorain Journal Co. v. United States, 342 U.S. 143, 150 (1951) (“There is a suggestion that the out-of-state distribution of some copies of the Journal, coupled with the considerable interstate commerce engaged in by its publisher in the purchase of its operating supplies, provided, in any event, a sufficient basis for classifying the publisher's entire operation as one in interstate commerce. It is pointed out also that the Journal's daily publication of local news and advertising was so inseparably integrated with its publication of interstate news and national advertising that any coercion used by it in securing local advertising inevitably operated to strengthen its entire operation, including its monopoly of interstate news and national advertising. It is not necessary, however, to rely on the above suggestions. The findings go further.”).
 
-[^14]: Lorain Journal Co. v. United States, 342 U.S. 143, 150-51 (1951) (“The {district} court found that the publisher, before 1948, enjoyed a substantial monopoly in Lorain of the mass dissemination not only of local news and advertising, but of news of out-of-state events transmitted to Lorain for immediate dissemination, and of advertising of out-of-state products for sale in Lorain.”).
+[^14]: Lorain Journal Co. v. United States, 342 U.S. 143, 150-51 (1951) (“The \[district\] court found that the publisher, before 1948, enjoyed a substantial monopoly in Lorain of the mass dissemination not only of local news and advertising, but of news of out-of-state events transmitted to Lorain for immediate dissemination, and of advertising of out-of-state products for sale in Lorain.”).
 
 [^15]: Lorain Journal Co. v. United States, 342 U.S. 143, 151 (1951) (“WEOL offered competition by radio in all these fields so that the publisher's attempt to destroy WEOL was in fact an attempt to end the invasion by radio of the Lorain newspaper's monopoly of interstate as well as local commerce.”).
 
@@ -282,7 +282,7 @@ This document is not legal advice. Case briefs are merely summations of legal op
 
 [^22]: Lorain Journal Co. v. United States, 342 U.S. 143, 154 n.8 (1951).
 
-[^23]: Lorain Journal Co. v. United States, 342 U.S. 143, 155 (1951) (“We find in {the district court’s injunction} no restriction upon any guaranteed freedom of the press.”).
+[^23]: Lorain Journal Co. v. United States, 342 U.S. 143, 155 (1951) (“We find in \[the district court’s injunction\] no restriction upon any guaranteed freedom of the press.”).
 
 [^24]: Lorain Journal Co. v. United States, 342 U.S. 143, 155-56 (1951) (“The injunction applies to a publisher what the law applies to others.”).
 

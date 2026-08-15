@@ -102,7 +102,7 @@ The Court determined that *Albrecht’s* per se rule proscribing vertical maximu
 
 _Albrecht’s_ rule was also enacted in party by the fear that vertical maximum price fixing:
 
-1. “{C}ould allow suppliers to discriminate against certain dealers, restrict the services that dealers could afford to offer customers, or disguise minimum price fixing schemes.”[^13]
+1. “\[C\]ould allow suppliers to discriminate against certain dealers, restrict the services that dealers could afford to offer customers, or disguise minimum price fixing schemes.”[^13]
 2. Could interfere with a dealer's freedom (presumably to set the price of the goods they are given by a supplier).[^14] 
 3. Facilitate minimum vertical price-fixing.[^15] 
 
@@ -121,7 +121,7 @@ The Court stated that recent decisions like *Arizona v. Maricopa County Medical 
 
 *Albrecht’s* “analytical underpinnings” were also “substantially weakened by" *Continental TV, Inc. v. GTE Sylvania Inc.*, 433 U.S. 36 (1977).[^21] 
 
-The Court also stated that *Albrecht* had decreasing relevance with Sherman Act enforcement.[^22] For example, “{N}either the parties nor any of the amici curiae have called our attention to any cases in which enforcement efforts have been directed solely against the conduct encompassed by *Albrecht’s* per se rule.”[^23]
+The Court also stated that *Albrecht* had decreasing relevance with Sherman Act enforcement.[^22] For example, “\[N\]either the parties nor any of the amici curiae have called our attention to any cases in which enforcement efforts have been directed solely against the conduct encompassed by *Albrecht’s* per se rule.”[^23]
 
 >*Note*: This assertion by the Supreme Court is quite weak. The lack of briefs on a particular issues does not make the circumstance it is describing as true or false. Indeed, the surge of amicus submitted to the Supreme Court did not happen until the mid-1970s. Paul M. Collins, Jr., *Friends of the Court*, 38 L. & Soc'y Rev. 807, 810–11 (2004). This is also a weird statement to make because is the Court saying that the number of amicus briefs stating a specific point has real weight to its decision? If so, the Court here basically is adopting gish galloping as a valid and meaningful method of persuading it to reconsider precedent.
 
@@ -169,7 +169,7 @@ Ultimately, the Court states that *Albrecht’s* concerns “can be appropriatel
 
 ### Purpose of the Antitrust Laws
 
-“{T}he primary purpose of the antitrust laws is to protect interbrand competition.”[^37] 
+“\[T\]he primary purpose of the antitrust laws is to protect interbrand competition.”[^37] 
 
 >*Note*: The Supreme Court has defined "interbrand competition" as "the competition among the manufacturers of the same generic product."[^38] 
 
@@ -179,7 +179,7 @@ Conduct prohibited by the antitrust laws should not harm “consumers and manufa
 
 ### Section 1 of the Sherman Act
 
-“{With Section 1 of the Sherman Act,} Congress intended to outlaw only unreasonable restraints.”[^40] 
+“\[With Section 1 of the Sherman Act,\] Congress intended to outlaw only unreasonable restraints.”[^40] 
 
 >*Themes*: #Theme/Section1OfTheShermanAct
 
@@ -187,7 +187,7 @@ Conduct prohibited by the antitrust laws should not harm “consumers and manufa
 
 ### Substance Over Form
 
-Affirming its statement in *Continental TV, Inc. v. GTE Sylvania Inc.*, 433 U.S. 36 (1977), the Court stated “‘departure from the rule-of-reason standard must be based upon demonstrable economic effect rather than—as in {*United States v. Arnold, Schwinn & Co. et al.*, 388 U.S. 365 (1967)}—upon formalistic line drawing,’ the appropriate course would be ‘to return to the rule of reason that governed vertical restrictions prior to {*United States v. Arnold, Schwinn & Co. et al.*, 388 U.S. 365 (1967)}.’”[^41]  
+Affirming its statement in *Continental TV, Inc. v. GTE Sylvania Inc.*, 433 U.S. 36 (1977), the Court stated “‘departure from the rule-of-reason standard must be based upon demonstrable economic effect rather than—as in \[*United States v. Arnold, Schwinn & Co. et al.*, 388 U.S. 365 (1967)\]—upon formalistic line drawing,’ the appropriate course would be ‘to return to the rule of reason that governed vertical restrictions prior to \[*United States v. Arnold, Schwinn & Co. et al.*, 388 U.S. 365 (1967)\].’”[^41]  
 
 >*Plain meaning*: The rule of reason is the presumptive analysis for conduct reviewed under Section 1 of the Sherman Act and conduct for conduct to not be reviewed under the rule of reason must be justified on the kind of economic effects the Sherman Act prohibits. 
 
@@ -205,7 +205,7 @@ Citing *Arizona v. Maricopa County Medical Society*, 457 U.S. 332 (1982), *324 L
 
 ### Per Se Rules
 
-“{T}here is insufficient economic justification for per se invalidation of vertical maximum price fixing.”[^43]
+“\[T\]here is insufficient economic justification for per se invalidation of vertical maximum price fixing.”[^43]
 
 >*Note*: The Court signals here they want "economic" justifications to determine whether conduct should be unlawful and the degree of unlawfulness it should have. But, similar to above, the Court does not say what specific kind of economic analysis is required. There is no consistent form of economic analysis. And, even, to the exist there is, economic analysis is highly dependent on the selected assumptions that form the basis of the analysis and the weight of those assumptions. 
 
@@ -217,11 +217,11 @@ Among other considerations, per se rules must show “harm consumers or competit
 
 #### Defining the Rule of Reason
 
-The rule of reason requires the fact finder to “decide whether the questioned practice imposes an unreasonable restraint on competition{.}”[^45] 
+The rule of reason requires the fact finder to “decide whether the questioned practice imposes an unreasonable restraint on competition\[.\]”[^45] 
 
 >*Note*: The rule of reason is supposed to operationalize the prohibitions of Section 1 of the Sherman Act.
 
-The determination of whether a specific method of competition is unreasonable requires the fact finder to take into account a variety of factors, including: “{1)} specific information about the relevant business, {2)} its condition before and after the restraint was imposed, and {3)} the restraint's history, nature, and effect.”[^46]
+The determination of whether a specific method of competition is unreasonable requires the fact finder to take into account a variety of factors, including: “\[1)\] specific information about the relevant business, \[2)\] its condition before and after the restraint was imposed, and \[3)\] the restraint's history, nature, and effect.”[^46]
 
 >*Note*: "Effect" here presumably means "economic effect."
 >
@@ -229,7 +229,7 @@ The determination of whether a specific method of competition is unreasonable re
 
 #### Purpose and Effect of the Rule of Reason Analysis
 
-The Court expressly identifies that conduct reviewed under the rule of reason does not mean the conduct is per se lawful.[^47] The Court stated that conduct reviewed under the rule of reason "can be appropriately recognized and punished"[^48] The Court also stated that, “{the} rule-of-reason analysis will *effectively identify* those situations in which {the challenged practice} amounts to anticompetitive conduct”[^49] and “can…appropriately recognize{} and punish{}” unlawful conduct.[^50]
+The Court expressly identifies that conduct reviewed under the rule of reason does not mean the conduct is per se lawful.[^47] The Court stated that conduct reviewed under the rule of reason "can be appropriately recognized and punished"[^48] The Court also stated that, “\[the\] rule-of-reason analysis will *effectively identify* those situations in which \[the challenged practice\] amounts to anticompetitive conduct”[^49] and “can…appropriately recognize\[\] and punish\[\]” unlawful conduct.[^50]
 
 >*Note*: Clearly, the Supreme Court believes the rule of reason is not supposed to result in per se legality, even though future empirical evidence cited above in this brief shows that it has.
 
@@ -237,9 +237,9 @@ The Court expressly identifies that conduct reviewed under the rule of reason do
 
 #### Conduct to be Reviewed Under the Rule of Reason
 
-“{M}ost antitrust claims are analyzed under a ‘rule of reason{.}’”[^51]
+“\[M\]ost antitrust claims are analyzed under a ‘rule of reason\[.\]’”[^51]
 
-“{V}ertical maximum price fixing, like the majority of commercial arrangements subject to the antitrust laws, should be evaluated under the rule of reason.”[^52]
+“\[V\]ertical maximum price fixing, like the majority of commercial arrangements subject to the antitrust laws, should be evaluated under the rule of reason.”[^52]
 
 >*Note*: Again the Court is emphasizing that the rule of reason is the default analysis. 
 >
@@ -249,17 +249,17 @@ The Court expressly identifies that conduct reviewed under the rule of reason do
 
 #### Principles of Stare Decisis (Generally)
 
-In general, “reconsideration of decisions of this Court {are approached} with the utmost caution.”[^53] 
+In general, “reconsideration of decisions of this Court \[are approached\] with the utmost caution.”[^53] 
 
 “Stare decisis reflects ‘a policy judgment that ‘in most matters it is more important that the applicable rule of law be settled than that it be settled right.’”[^54]
 
 “Stare decisis ‘is the preferred course because it promotes the evenhanded, predictable, and consistent development of legal principles, fosters reliance on judicial decisions, and contributes to the actual and perceived integrity of the judicial process.’”[^55]
 
-“This Court has expressed its reluctance to overrule decisions involving statutory interpretation{.}”[^56] 
+“This Court has expressed its reluctance to overrule decisions involving statutory interpretation\[.\]”[^56] 
 
 The Court has also “acknowledged that stare decisis concerns are at their acme in cases involving property and contract rights.”[^57]
 
-“‘{S}tare decisis is not an inexorable command.’”[^58]
+“‘\[S\]tare decisis is not an inexorable command.’”[^58]
 
 >*Themes*: #Theme/StareDecisis
 >
@@ -267,20 +267,20 @@ The Court has also “acknowledged that stare decisis concerns are at their acme
 
 #### Principles of Stare Decisis (Antitrust)
 
-“{O}ur reconsideration of *Albrecht's* continuing validity is informed by several of our decisions, as well as a considerable body of scholarship discussing the effects of vertical restraints.”[^59]
+“\[O\]ur reconsideration of *Albrecht's* continuing validity is informed by several of our decisions, as well as a considerable body of scholarship discussing the effects of vertical restraints.”[^59]
 
 > _Note:_ Implied here is that the decisions of the Supreme Court should be harmonized to some degree – meaning that there are unifying principles that all of the holdings should be aiming toward.
 > 
 > *Note*: Exactly how many decisions are needed to bring into question a precedent and how much scholarship is required are questions left unanswered.
 
-“{T}his Court has reconsidered its decisions construing the Sherman Act when the 
+“\[T\]his Court has reconsidered its decisions construing the Sherman Act when the 
 theoretical underpinnings of those decisions are called into serious question.”[^60] 
 
 > *Note*: Exactly (i.e., the precise moment) when "the theoretical underpinnings" of prior decisions is sufficiently called into question is not clear, although this opinion does provide some indicators.
 
 “In the area of antitrust law, there is a competing interest, well represented in this Court's decisions, in recognizing and adapting to changed circumstances and the lessons of accumulated experience.”[^61]
 
-“{T}he general presumption that legislative changes should be left to Congress has less force with respect to the Sherman Act in light of the accepted view that Congress ‘expected the courts to give shape to the statute's broad mandate by drawing on common-law tradition.’”[^62]
+“\[T\]he general presumption that legislative changes should be left to Congress has less force with respect to the Sherman Act in light of the accepted view that Congress ‘expected the courts to give shape to the statute's broad mandate by drawing on common-law tradition.’”[^62]
 
 > *Note*: Notice the maneuver the Court has done. In this decision, the Court has spent considerable space explaining the importance of stare decisis, and concludes that the rules and guidance it has laid out, do not fully apply to the Sherman Act. Also here, the Court takes for granted here what the "common-law tradition" means. Subsequent research has shown that the common law tradition had a specific framing, that of the moral economy.[^63] 
 > 
@@ -288,13 +288,13 @@ theoretical underpinnings of those decisions are called into serious question.�
 
 ##### On the Basis of Prior Decisions
 
-“Subsequent decisions of the Court, {including *Maricopa County*, 457 U.S., at 348, n. 18 (1982), and *324 Liquor Corp. v. Duffy*, 479 U.S. 335, 341-342 (1987), and *Atlantic Richfield Co. v. USA Petroleum Co. (ARCO)*, 495 U.S. 328 (1990) – where ‘some disfavor with that decision was signaled’,} however, have hinted that the analytical underpinnings of *Albrecht* were substantially weakened by {Continental TV, Inc. v. GTE Sylvania Inc., 433 U.S. 36 (1977)}.”[^64]
+“Subsequent decisions of the Court, \[including *Maricopa County*, 457 U.S., at 348, n. 18 (1982), and *324 Liquor Corp. v. Duffy*, 479 U.S. 335, 341-342 (1987), and *Atlantic Richfield Co. v. USA Petroleum Co. (ARCO)*, 495 U.S. 328 (1990) – where ‘some disfavor with that decision was signaled’,\] however, have hinted that the analytical underpinnings of *Albrecht* were substantially weakened by \[Continental TV, Inc. v. GTE Sylvania Inc., 433 U.S. 36 (1977)\].”[^64]
 
-“*Albrecht* has little or no relevance to ongoing enforcement of the Sherman Act.”[^65] For example, “{N}either the parties nor any of the amici curiae have called our attention to any cases in which enforcement efforts have been directed solely against the conduct encompassed by *Albrecht’s* per se rule.”[^66] 
+“*Albrecht* has little or no relevance to ongoing enforcement of the Sherman Act.”[^65] For example, “\[N\]either the parties nor any of the amici curiae have called our attention to any cases in which enforcement efforts have been directed solely against the conduct encompassed by *Albrecht’s* per se rule.”[^66] 
 
 > *Note*: Exactly how many decisions are needed to bring into question a precedent and how much scholarship is required are questions left unanswered.
 
-Reevaluation of a prior precedent is also reasonable when a decision’s holding (in this case *Albrecht*) has been “eroded by this Court's {other} precedent{s}.”[^67]
+Reevaluation of a prior precedent is also reasonable when a decision’s holding (in this case *Albrecht*) has been “eroded by this Court's \[other\] precedent\[s\].”[^67]
 
 >*Themes*: #Theme/StareDecisis
 >
@@ -304,11 +304,11 @@ Reevaluation of a prior precedent is also reasonable when a decision’s holding
 
 ###### Criticism of the Prior Decision
 
-“*Albrecht* has been widely criticized since its inception.”[^68] And “criticism of {*Albrecht’s*} premises abounds.”[^69]
+“*Albrecht* has been widely criticized since its inception.”[^68] And “criticism of \[*Albrecht’s*\] premises abounds.”[^69]
 
 >*Note*: This statement from the Supreme Court says nothing of the quality of the criticism. The Court here basically is adopting gish galloping as a valid and meaningful method of persuading it to reconsider precedent.
 
-“*Albrecht{’s}*…conceptual foundations {have been} gravely weakened {since the decision}.”[^70]
+“*Albrecht\[’s\]*…conceptual foundations \[have been\] gravely weakened \[since the decision\].”[^70]
 
 “*Albrecht*…relied solely upon hypothetical effects of vertical maximum price fixing.”[^71] 
 
@@ -358,7 +358,7 @@ Due to *Albrecht's* rule, according to the Supreme Court, firms have been encour
 
 #### Considerations of Asserted Analogous Precedents
 
-In asserting that *Albrecht's* per se rule should be retained, plaintiff/respondent Khan invoked the Court’s precedents regarding the baseball exemption in *Toolson v. New York Yankees, Inc.*, 346 U.S. 356 (1953) (per curiam) and *Flood v. Kuhn*, 407 U.S. 258 (1972), but the Court stated that such assertions are "misplaced.”[^83] This is because, as the Court stated in *Kuhn* the baseball exemption is an “aberration . . . rest{ing} on a recognition and an acceptance of baseball's unique characteristics and needs{.}"[^84]
+In asserting that *Albrecht's* per se rule should be retained, plaintiff/respondent Khan invoked the Court’s precedents regarding the baseball exemption in *Toolson v. New York Yankees, Inc.*, 346 U.S. 356 (1953) (per curiam) and *Flood v. Kuhn*, 407 U.S. 258 (1972), but the Court stated that such assertions are "misplaced.”[^83] This is because, as the Court stated in *Kuhn* the baseball exemption is an “aberration . . . rest\[ing\] on a recognition and an acceptance of baseball's unique characteristics and needs\[.\]"[^84]
 
 Additionally, because the baseball exemption is so unique, the lack of a legislative responsive by Congress allows the Court to “infer little meaning” from the circumstance.[^85] And any legislative proposals that do exist “neither clearly to support nor to denounce the per se rule of *Albrecht*.”[^86]
 
@@ -412,7 +412,7 @@ This document is not legal advice. Case briefs are merely summations of legal op
 
 [^11]: State Oil Co. v. Khan, 522 U.S. 3, 9 (1997).
 
-[^12]: State Oil Co. v. Khan, 522 U.S. 3, 12 (1997) (The {_Albrecht_} decision arose because the Supreme Court was “{i}nfluenced by its decisions in _Socony-Vacuum_, _Kiefer-Stewart_, and _Schwinn_{.}”).
+[^12]: State Oil Co. v. Khan, 522 U.S. 3, 12 (1997) (The \[_Albrecht_\] decision arose because the Supreme Court was “\[i\]nfluenced by its decisions in _Socony-Vacuum_, _Kiefer-Stewart_, and _Schwinn_\[.\]”).
 
 [^13]: State Oil Co. v. Khan, 522 U.S. 3, 12 (1997).
 
@@ -420,17 +420,17 @@ This document is not legal advice. Case briefs are merely summations of legal op
 
 [^15]: State Oil Co. v. Khan, 522 U.S. 3, 17 (1997) (_Albrecht_ was concerned that allowing maximum vertical price-fixing would facilitating minimum vertical price-fixing, thus necessitating per se treatment, however such concerns “can be appropriately recognized and punished under the rule of reason.”). **Note:** Minimum vertical price-fixing (at the time of this decision) was a long prohibited practice under the federal antitrust laws. Dr. Miles Med. Co. v. John D. Park & Sons Co., 220 U.S. 373, 408 (1911), *overruled by* Leegin Creative Leather Prods., Inc. v. PSKS, Inc., 551 U.S. 877 (2007)
 
-[^16]: State Oil Co. v. Khan, 522 U.S. 3, 20 (1997) (“In the area of antitrust law, there is a competing interest, well represented in this Court's decisions, in recognizing and adapting to changed circumstances and the lessons of accumulated experience.”); State Oil Co. v. Khan, 522 U.S. 3, 20-21 (1997) (“{T}he general presumption that legislative changes should be left to Congress has less force with respect to the Sherman Act in light of the accepted view that Congress ‘expected the courts to give shape to the statute's broad mandate by drawing on common-law tradition.’”) (quoting National Society of Professional Engineers v. United States, 435 U.S. 679, 688 (1978)). **Note**: The Court here assumes the meaning of exactly what the "common law tradition" is know and self-evident. It is not. Subsequent research has shown that the common law tradition had a specific framing, that of the moral economy. *See* Sanjukta Paul, *Recovering the Moral Economy Foundations of the Sherman Act*, 131 Yale L.J. 175 (2021).
+[^16]: State Oil Co. v. Khan, 522 U.S. 3, 20 (1997) (“In the area of antitrust law, there is a competing interest, well represented in this Court's decisions, in recognizing and adapting to changed circumstances and the lessons of accumulated experience.”); State Oil Co. v. Khan, 522 U.S. 3, 20-21 (1997) (“\[T\]he general presumption that legislative changes should be left to Congress has less force with respect to the Sherman Act in light of the accepted view that Congress ‘expected the courts to give shape to the statute's broad mandate by drawing on common-law tradition.’”) (quoting National Society of Professional Engineers v. United States, 435 U.S. 679, 688 (1978)). **Note**: The Court here assumes the meaning of exactly what the "common law tradition" is know and self-evident. It is not. Subsequent research has shown that the common law tradition had a specific framing, that of the moral economy. *See* Sanjukta Paul, *Recovering the Moral Economy Foundations of the Sherman Act*, 131 Yale L.J. 175 (2021).
 
-[^17]: State Oil Co. v. Khan, 522 U.S. 3, 22 (1997) (Reevaluation of a prior precedent is also reasonable when a decision’s holding (in this case _Albrecht_) has been “eroded by this Court's {other} precedent{s}.”).
+[^17]: State Oil Co. v. Khan, 522 U.S. 3, 22 (1997) (Reevaluation of a prior precedent is also reasonable when a decision’s holding (in this case _Albrecht_) has been “eroded by this Court's \[other\] precedent\[s\].”).
 
-[^18]: State Oil Co. v. Khan, 522 U.S. 3, 21 (1997) (“_Albrecht_ has been widely criticized since its inception.”); State Oil Co. v. Khan, 522 U.S. 3, 16 (1997) (“criticism of {_Albrecht’s_} premises abounds.”); State Oil Co. v. Khan, 522 U.S. 3, 22 (1997) (_“Albrecht{’s}_…conceptual foundations {have been} gravely weakened {since the holding}.”); State Oil Co. v. Khan, 522 U.S. 3, 19 (1997) (“_Albrecht_…relied solely upon hypothetical effects of vertical maximum price fixing.”); State Oil Co. v. Khan, 522 U.S. 3, 19 (1997) (In general _Albrecht’s_ rule “lacks adequate justification.”).
+[^18]: State Oil Co. v. Khan, 522 U.S. 3, 21 (1997) (“_Albrecht_ has been widely criticized since its inception.”); State Oil Co. v. Khan, 522 U.S. 3, 16 (1997) (“criticism of \[_Albrecht’s_\] premises abounds.”); State Oil Co. v. Khan, 522 U.S. 3, 22 (1997) (_“Albrecht\[’s\]_…conceptual foundations \[have been\] gravely weakened \[since the holding\].”); State Oil Co. v. Khan, 522 U.S. 3, 19 (1997) (“_Albrecht_…relied solely upon hypothetical effects of vertical maximum price fixing.”); State Oil Co. v. Khan, 522 U.S. 3, 19 (1997) (In general _Albrecht’s_ rule “lacks adequate justification.”).
 
 [^19]: State Oil Co. v. Khan, 522 U.S. 3, 21-22 (1997) (“Although the rule of *Albrecht* has been in effect for some time, the inquiry we must undertake requires considering ‘ ‘the effect of the antitrust laws upon vertical distributional restraints in the American economy today.’’”) (citing Continental TV, Inc. v. GTE Sylvania Inc., 433 U.S. 36, 53, n. 21 (1977) (quoting United States v. Arnold, Schwinn & Co. et al., 388 U.S. 365, 392 (1967) (Stewart, J., concurring in part and dissenting in part))). **Note: That the Court does not explicitly state this factor, but it is implied given the analysis the court does in the opinion.** 
 
 [^20]: State Oil Co. v. Khan, 522 U.S. 3, 14 (1997).
 
-[^21]: State Oil Co. v. Khan, 522 U.S. 3, 14 (1997) (“Subsequent decisions of the Court, {including _Maricopa County_, 457 U.S., at 348, n. 18 (1982), and _324 Liquor Corp. v. Duffy_, 479 U.S. 335, 341-342 (1987), and *Atlantic Richfield Co. v. USA Petroleum Co. (ARCO),* 495 U.S. 328 (1990) – where ‘some disfavor with that decision was signaled’,} however, have hinted that the analytical underpinnings of _Albrecht_ were substantially weakened by {*Continental T. V., Inc. v. GTE Sylvania Inc.*, 433 U.S. 36 , 47-49 (1977)}.”).
+[^21]: State Oil Co. v. Khan, 522 U.S. 3, 14 (1997) (“Subsequent decisions of the Court, \[including _Maricopa County_, 457 U.S., at 348, n. 18 (1982), and _324 Liquor Corp. v. Duffy_, 479 U.S. 335, 341-342 (1987), and *Atlantic Richfield Co. v. USA Petroleum Co. (ARCO),* 495 U.S. 328 (1990) – where ‘some disfavor with that decision was signaled’,\] however, have hinted that the analytical underpinnings of _Albrecht_ were substantially weakened by \[*Continental T. V., Inc. v. GTE Sylvania Inc.*, 433 U.S. 36 , 47-49 (1977)\].”).
 
 [^22]: State Oil Co. v. Khan, 522 U.S. 3, 18 (1997) (“_Albrecht_ has little or no relevance to ongoing enforcement of the Sherman Act.”) (citing Copperweld Corp. v. Independence Tube Corp., 467 U.S. 752, 777, and n. 25 (1984)).
 
