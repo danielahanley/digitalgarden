@@ -2,7 +2,6 @@
 {"dg-publish":true,"dg-path":"Case Briefs/_Welcome_.md","permalink":"/case-briefs/welcome/","title":"Welcome","hide":true,"pinned":true,"tags":["gardenEntry"],"dg-note-properties":{"title":"Welcome"}}
 ---
 
-# Welcome
 
 Welcome to the case brief summaries website for the [*Law and Power* newsletter](https://danielhanley.substack.com/). This project is dedicated to providing a free resource for understanding U.S. antitrust jurisprudence. 
 
