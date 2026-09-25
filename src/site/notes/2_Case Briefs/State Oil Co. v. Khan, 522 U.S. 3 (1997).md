@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Case Briefs/State Oil Co. v. Khan, 522 U.S. 3 (1997).md","permalink":"/case-briefs/state-oil-co-v-khan-522-u-s-3-1997/","title":"State Oil Co. v. Khan, 522 U.S. 3 (1997)","dg-note-properties":{"title":"State Oil Co. v. Khan, 522 U.S. 3 (1997)","aliases":["Court","State Oil Co. v. Khan, 522 U.S. 3","Khan, 522 U.S. at","Khan"]}}
+{"dg-publish":true,"dg-path":"Case Briefs/State Oil Co. v. Khan, 522 U.S. 3 (1997).md","permalink":"/case-briefs/state-oil-co-v-khan-522-u-s-3-1997/","title":"State Oil Co. v. Khan, 522 U.S. 3 (1997)","created":"2025-09-23T17:33:03.003-04:00","updated":"2026-09-18T16:30:40.127-04:00","dg-note-properties":{"title":"State Oil Co. v. Khan, 522 U.S. 3 (1997)","aliases":["Court","State Oil Co. v. Khan, 522 U.S. 3","Khan, 522 U.S. at","Khan"]}}
 ---
 
 

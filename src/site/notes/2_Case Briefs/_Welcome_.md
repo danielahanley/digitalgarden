@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"Case Briefs/_Welcome_.md","permalink":"/case-briefs/welcome/","title":"Welcome","hide":true,"pinned":true,"tags":["gardenEntry"],"dg-note-properties":{"title":"Welcome"}}
+{"dg-publish":true,"dg-path":"Case Briefs/_Welcome_.md","permalink":"/case-briefs/welcome/","title":"Welcome","hide":true,"pinned":true,"tags":["gardenEntry"],"created":"2025-07-25T09:36:28.770-04:00","updated":"2026-09-25T13:10:19.536-04:00","dg-note-properties":{"title":"Welcome"}}
 ---
 
 
-Welcome to the case brief summaries website for the [*Law and Power* newsletter](https://danielhanley.substack.com/). This project is dedicated to providing a free resource for understanding U.S. antitrust jurisprudence. 
+Welcome to the Digital Garden information site for the [*Law and Power* newsletter](https://danielhanley.substack.com/). This project is dedicated to providing free resources for understanding U.S. antitrust jurisprudence. 
 
-The information from these briefs will be incorporated into a treatise which will also be freely accessible. Currently, the treatise is still in development and will be released once there are approximately 50 or so Supreme Court decisions incorporated into it.
+Currently, this site provides free case briefs. The information from these briefs will be incorporated into a treatise which will also be freely accessible. Currently, the treatise is still in development and will be released once there are approximately 50 or so Supreme Court decisions incorporated into it.
 
 A list of the essential details for each of the cases briefed on this website and in the forthcoming treatise can be viewed in the [Master Antitrust Case Database](https://airtable.com/appLm6UmdOBoIsKrK/shrIMhxRBDo5EiHkq/tblNU84OLWGlPEIgG/viw6R8Aiu6UnmIx9r) (MACD).
 

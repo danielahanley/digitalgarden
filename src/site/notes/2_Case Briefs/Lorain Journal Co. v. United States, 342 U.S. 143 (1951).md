@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Case Briefs/Lorain Journal Co. v. United States, 342 U.S. 143 (1951).md","permalink":"/case-briefs/lorain-journal-co-v-united-states-342-u-s-143-1951/","title":"Lorain Journal Co. v. United States, 342 U.S. 143 (1951)","dg-note-properties":{"title":"Lorain Journal Co. v. United States, 342 U.S. 143 (1951)","aliases":["Court","Lorain Journal Co. v. United States, 342 U.S. 143","Lorain Journal, 342 U.S. at","Lorain Journal"],"author":"Daniel A. Hanley","date":"2026-05-13"}}
+{"dg-publish":true,"dg-path":"Case Briefs/Lorain Journal Co. v. United States, 342 U.S. 143 (1951).md","permalink":"/case-briefs/lorain-journal-co-v-united-states-342-u-s-143-1951/","title":"Lorain Journal Co. v. United States, 342 U.S. 143 (1951)","created":"2025-05-28T22:21:41.997-04:00","updated":"2026-08-14T21:57:04.672-04:00","dg-note-properties":{"title":"Lorain Journal Co. v. United States, 342 U.S. 143 (1951)","aliases":["Court","Lorain Journal Co. v. United States, 342 U.S. 143","Lorain Journal, 342 U.S. at","Lorain Journal"],"author":"Daniel A. Hanley","date":"2026-05-13"}}
 ---
 
 
