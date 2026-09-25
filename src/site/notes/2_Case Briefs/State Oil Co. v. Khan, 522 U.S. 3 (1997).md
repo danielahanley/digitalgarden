@@ -2,6 +2,7 @@
 {"dg-publish":true,"dg-path":"Case Briefs/State Oil Co. v. Khan, 522 U.S. 3 (1997).md","permalink":"/case-briefs/state-oil-co-v-khan-522-u-s-3-1997/","title":"State Oil Co. v. Khan, 522 U.S. 3 (1997)","dg-note-properties":{"title":"State Oil Co. v. Khan, 522 U.S. 3 (1997)","aliases":["Court","State Oil Co. v. Khan, 522 U.S. 3","Khan, 522 U.S. at","Khan"]}}
 ---
 
+
 # Court
 
 Supreme Court
@@ -18,14 +19,17 @@ November 4, 1997
 
 Defendant
 #Victory/Defendant 
+
 # Conduct at Issue
 
 Vertical Maximum Price-Fixing
 #ConductAtIssue/VerticalMaximumPrice-Fixing
+
 # Industry
 
 Petroleum
 #Industry/Petroleum
+
 # Themes and Important Topics
 
 - Stare Decisis #Theme/StareDecisis
@@ -41,14 +45,14 @@ Petroleum
 
 Section 1 of the Sherman Act, 15 U.S.C. § 1.
 #Statute/Section1OfTheShermanAct
+
 # Procedural Posture
 
 Summary Judgment
 
 # Lower Court Opinions
 
-Khan v. State Oil Co., 907 F. Supp. 1202 (N.D. Ill. 1995), _aff'd in part, rev'd in part_, 93 F.3d 1358 (7th Cir. 1996), _vacated_, 522 U.S. 3 (1997).
-
+Khan v. State Oil Co., 907 F. Supp. 1202 (N.D. Ill. 1995), _aff’d in part, rev’d in part_, 93 F.3d 1358 (7th Cir. 1996), _vacated_, 522 U.S. 3 (1997).
 
 # Facts
 
@@ -74,21 +78,19 @@ In particular, the District Court took issue with the fact that Khan did not sho
 
 The Seventh Circuit reversed.[^10] The Seventh Circuit found that:
 
-- State Oil did fix maximum gasoline prices and pegged the price to a "worthless" value for respondents.
-- State Oil's pricing scheme was a per se antitrust violation under *Albrecht v. Herald Co.*, 390 U.S. 145 (1968).
+- State Oil did fix maximum gasoline prices and pegged the price to a “worthless” value for respondents.
+- State Oil’s pricing scheme was a per se antitrust violation under *Albrecht v. Herald Co.*, 390 U.S. 145 (1968).
 - Khan could have suffered antitrust injury from not being able to adjust gasoline prices.
 
 The Seventh Circuit Court expressed extreme reservations about the economic soundness on the per se prohibition, but it felt bound by controlling precedent, in this case *Albrecht v. Herald Co.*, 390 U.S. 145 (1968).[^11] 
 
-
 # Legal Question(s)
-
 
 **Question 1:** Are the maximum vertical price-fixing agreements a per se violation of the Sherman Act?
 
 **Question 2:** Is the Plaintiff/Respondent Entitled to Recovery Damages?
 
-# Majority Opinion (Justice O'Connor)
+# Majority Opinion (Justice O’Connor)
 
 ## Question 1: Are the agreements a per se violation of the Sherman Act?
 
@@ -103,7 +105,7 @@ The Court determined that *Albrecht’s* per se rule proscribing vertical maximu
 _Albrecht’s_ rule was also enacted in party by the fear that vertical maximum price fixing:
 
 1. “\[C\]ould allow suppliers to discriminate against certain dealers, restrict the services that dealers could afford to offer customers, or disguise minimum price fixing schemes.”[^13]
-2. Could interfere with a dealer's freedom (presumably to set the price of the goods they are given by a supplier).[^14] 
+2. Could interfere with a dealer’s freedom (presumably to set the price of the goods they are given by a supplier).[^14] 
 3. Facilitate minimum vertical price-fixing.[^15] 
 
 The Court then reviewed its procedure for stare decisis. The Court asserted that the traditional stare decisis analysis is different from the stare decisis analysis that should be used when reviewing its prior decisions interpreting the antitrust laws. In particular, stare decisis regarding the rules of antitrust law are to adapt to changing circumstances, in part because Congress expected the federal courts to interpret the antitrust laws in light of the common law tradition.[^16] 
@@ -115,30 +117,30 @@ The Court then detailed a set of factors to determine whether it should overrule
 3. What has been the effect of the current precedent?[^19]
 
 The Court then proceeded to analyze to each of the considerations, which are detailed below.
+
 ### 1) How the current precedent can be harmonized with recent decisions.
 
 The Court stated that recent decisions like *Arizona v. Maricopa County Medical Society*, 457 U.S. 332 (1982), *324 Liquor Corp. v. Duffy*, 479 U.S. 335 (1987), and *Atlantic Richfield v. USA Petroleum*, 495 U.S. 328 (1990) have expressed “disfavor” with *Albrecht*.[^20] 
 
-*Albrecht’s* “analytical underpinnings” were also “substantially weakened by" *Continental TV, Inc. v. GTE Sylvania Inc.*, 433 U.S. 36 (1977).[^21] 
+*Albrecht’s* “analytical underpinnings” were also “substantially weakened by” *Continental TV, Inc. v. GTE Sylvania Inc.*, 433 U.S. 36 (1977).[^21] 
 
 The Court also stated that *Albrecht* had decreasing relevance with Sherman Act enforcement.[^22] For example, “\[N\]either the parties nor any of the amici curiae have called our attention to any cases in which enforcement efforts have been directed solely against the conduct encompassed by *Albrecht’s* per se rule.”[^23]
 
->*Note*: This assertion by the Supreme Court is quite weak. The lack of briefs on a particular issues does not make the circumstance it is describing as true or false. Indeed, the surge of amicus submitted to the Supreme Court did not happen until the mid-1970s. Paul M. Collins, Jr., *Friends of the Court*, 38 L. & Soc'y Rev. 807, 810–11 (2004). This is also a weird statement to make because is the Court saying that the number of amicus briefs stating a specific point has real weight to its decision? If so, the Court here basically is adopting gish galloping as a valid and meaningful method of persuading it to reconsider precedent.
-
+>*Note*: This assertion by the Supreme Court is quite weak. The lack of briefs on a particular issues does not make the circumstance it is describing as true or false. Indeed, the surge of amicus submitted to the Supreme Court did not happen until the mid-1970s. Paul M. Collins, Jr., *Friends of the Court*, 38 L. & Soc’y Rev. 807, 810–11 (2004). This is also a weird statement to make because is the Court saying that the number of amicus briefs stating a specific point has real weight to its decision? If so, the Court here basically is adopting gish galloping as a valid and meaningful method of persuading it to reconsider precedent.
 
 ### 2) How new scholarship supports or undermines the current precedent.
 
-According to the Court, the economics of the situation (i.e., allowing vertical maximum price-fixing) actually mitigate the harms *Albrecht* sought to prevent. According to Judge Richard Posner, in his Seventh Circuit decision below, “unless the supplier is a monopsonist he cannot squeeze his dealers' margins below a competitive level; the attempt to do so would just drive the dealers into the arms of a competing supplier.”[^24] In other words, according to Judge Posner, the Supreme Court agrees with the assumption that the price determined by the contract cannot actually be pushed below the competitive level, because the supplier, absent monopoly power, would just cause dealers to find another suppliers. 
+According to the Court, the economics of the situation (i.e., allowing vertical maximum price-fixing) actually mitigate the harms *Albrecht* sought to prevent. According to Judge Richard Posner, in his Seventh Circuit decision below, “unless the supplier is a monopsonist he cannot squeeze his dealers’ margins below a competitive level; the attempt to do so would just drive the dealers into the arms of a competing supplier.”[^24] In other words, according to Judge Posner, the Supreme Court agrees with the assumption that the price determined by the contract cannot actually be pushed below the competitive level, because the supplier, absent monopoly power, would just cause dealers to find another suppliers. 
 
-> *Note*: Of course, though, this assertion/belief is based on narrowly defined, and highly sensitive assumptions based on Chicago School Economics. What makes the Court's decision ironic is that it criticizes the *Albrecht* decision because it asserts the decision "relied solely upon hypothetical effects of vertical maximum price fixing" as if its own decision does not do just this.[^25]
+> *Note*: Of course, though, this assertion/belief is based on narrowly defined, and highly sensitive assumptions based on Chicago School Economics. What makes the Court’s decision ironic is that it criticizes the *Albrecht* decision because it asserts the decision “relied solely upon hypothetical effects of vertical maximum price fixing” as if its own decision does not do just this.[^25]
 
 Second, the Court asserts that fixing maximum prices can help provide the market for the supplier’s product because they stop individual dealers (like plaintiff/respondent Khan), if they have monopoly power, from overcharging customers – which the Court says could happen particularly if the brand is popular.[^26]
 
-Additionally, again citing Judge Richard Posner's decision, the Court agrees with the assumption that loose pricing restrictions on dealers could cause fewer customers to buy the product, leading to fewer sales and subsequently profits. Fixing maximum prices, thus, ensure the dealer’s products are priced in a way that can maximizing overall sales and revenue – thus benefiting consumers, the supplier, and the dealers.[^27]
+Additionally, again citing Judge Richard Posner’s decision, the Court agrees with the assumption that loose pricing restrictions on dealers could cause fewer customers to buy the product, leading to fewer sales and subsequently profits. Fixing maximum prices, thus, ensure the dealer’s products are priced in a way that can maximizing overall sales and revenue – thus benefiting consumers, the supplier, and the dealers.[^27]
 
 > *Note*: Again, this assertion/belief is based on narrowly defined, and highly sensitive assumptions based on Chicago School Economics. 
 
-The Court then states that while *Albrecht* worried that setting maximum prices might make it difficult for dealers to provide important services to customers, this circumstance would result in setting prices so low it would likely drive customers away, which would hurt not just the dealers but also the manufacturers and consumers. As a result, it's unlikely that a supplier would choose to set prices that low as a “matter of business judgment.”[^28]
+The Court then states that while *Albrecht* worried that setting maximum prices might make it difficult for dealers to provide important services to customers, this circumstance would result in setting prices so low it would likely drive customers away, which would hurt not just the dealers but also the manufacturers and consumers. As a result, it’s unlikely that a supplier would choose to set prices that low as a “matter of business judgment.”[^28]
 
 ### 3) What has been the effect of the current precedent?
 
@@ -154,24 +156,21 @@ Ultimately, the Court states that *Albrecht’s* concerns “can be appropriatel
 
 **Answer: Indeterminable**
 
-**Rationale:** Because the Seventh Circuit's and the District Court's decisions were “premised on *Albrecht’s* per se rule…. the matter should be reviewed by the Court of Appeals in the first instance.”[^35] The judgment is vacated and remanded.
-
+**Rationale:** Because the Seventh Circuit’s and the District Court’s decisions were “premised on *Albrecht’s* per se rule…. the matter should be reviewed by the Court of Appeals in the first instance.”[^35] The judgment is vacated and remanded.
 
 # Rule(s) of Law
 
-
 *Albrecht v. Herald Co.*, 390 U.S. 145 (1968) is overruled and maximum vertical price-fixing is, rather than being classified as per se lawful, subject to being analyzed under the rule of reason.[^36] 
-
 
 # Other Themes and Important Quotes from the Decision
 
-## Majority Opinion (O'Connor)
+## Majority Opinion (O’Connor)
 
 ### Purpose of the Antitrust Laws
 
 “\[T\]he primary purpose of the antitrust laws is to protect interbrand competition.”[^37] 
 
->*Note*: The Supreme Court has defined "interbrand competition" as "the competition among the manufacturers of the same generic product."[^38] 
+>*Note*: The Supreme Court has defined “interbrand competition” as “the competition among the manufacturers of the same generic product.”[^38] 
 
 Conduct prohibited by the antitrust laws should not harm “consumers and manufacturers.”[^39] 
 
@@ -183,7 +182,7 @@ Conduct prohibited by the antitrust laws should not harm “consumers and manufa
 
 >*Themes*: #Theme/Section1OfTheShermanAct
 
->*Note*: The definition of "unreasonable" should not be taken as self-evident. 
+>*Note*: The definition of “unreasonable” should not be taken as self-evident. 
 
 ### Substance Over Form
 
@@ -207,7 +206,7 @@ Citing *Arizona v. Maricopa County Medical Society*, 457 U.S. 332 (1982), *324 L
 
 “\[T\]here is insufficient economic justification for per se invalidation of vertical maximum price fixing.”[^43]
 
->*Note*: The Court signals here they want "economic" justifications to determine whether conduct should be unlawful and the degree of unlawfulness it should have. But, similar to above, the Court does not say what specific kind of economic analysis is required. There is no consistent form of economic analysis. And, even, to the exist there is, economic analysis is highly dependent on the selected assumptions that form the basis of the analysis and the weight of those assumptions. 
+>*Note*: The Court signals here they want “economic” justifications to determine whether conduct should be unlawful and the degree of unlawfulness it should have. But, similar to above, the Court does not say what specific kind of economic analysis is required. There is no consistent form of economic analysis. And, even, to the exist there is, economic analysis is highly dependent on the selected assumptions that form the basis of the analysis and the weight of those assumptions. 
 
 Among other considerations, per se rules must show “harm consumers or competition to the extent necessary to justify their per se invalidation.”[^44]
 
@@ -221,15 +220,15 @@ The rule of reason requires the fact finder to “decide whether the questioned 
 
 >*Note*: The rule of reason is supposed to operationalize the prohibitions of Section 1 of the Sherman Act.
 
-The determination of whether a specific method of competition is unreasonable requires the fact finder to take into account a variety of factors, including: “\[1)\] specific information about the relevant business, \[2)\] its condition before and after the restraint was imposed, and \[3)\] the restraint's history, nature, and effect.”[^46]
+The determination of whether a specific method of competition is unreasonable requires the fact finder to take into account a variety of factors, including: “\[1)\] specific information about the relevant business, \[2)\] its condition before and after the restraint was imposed, and \[3)\] the restraint’s history, nature, and effect.”[^46]
 
->*Note*: "Effect" here presumably means "economic effect."
+>*Note*: “Effect” here presumably means “economic effect.”
 >
 >*Themes*: #Theme/TheRuleOfReason 
 
 #### Purpose and Effect of the Rule of Reason Analysis
 
-The Court expressly identifies that conduct reviewed under the rule of reason does not mean the conduct is per se lawful.[^47] The Court stated that conduct reviewed under the rule of reason "can be appropriately recognized and punished"[^48] The Court also stated that, “\[the\] rule-of-reason analysis will *effectively identify* those situations in which \[the challenged practice\] amounts to anticompetitive conduct”[^49] and “can…appropriately recognize\[\] and punish\[\]” unlawful conduct.[^50]
+The Court expressly identifies that conduct reviewed under the rule of reason does not mean the conduct is per se lawful.[^47] The Court stated that conduct reviewed under the rule of reason “can be appropriately recognized and punished”[^48] The Court also stated that, “\[the\] rule-of-reason analysis will *effectively identify* those situations in which \[the challenged practice\] amounts to anticompetitive conduct”[^49] and “can…appropriately recognize\[\] and punish\[\]” unlawful conduct.[^50]
 
 >*Note*: Clearly, the Supreme Court believes the rule of reason is not supposed to result in per se legality, even though future empirical evidence cited above in this brief shows that it has.
 
@@ -267,7 +266,7 @@ The Court has also “acknowledged that stare decisis concerns are at their acme
 
 #### Principles of Stare Decisis (Antitrust)
 
-“\[O\]ur reconsideration of *Albrecht's* continuing validity is informed by several of our decisions, as well as a considerable body of scholarship discussing the effects of vertical restraints.”[^59]
+“\[O\]ur reconsideration of *Albrecht’s* continuing validity is informed by several of our decisions, as well as a considerable body of scholarship discussing the effects of vertical restraints.”[^59]
 
 > _Note:_ Implied here is that the decisions of the Supreme Court should be harmonized to some degree – meaning that there are unifying principles that all of the holdings should be aiming toward.
 > 
@@ -276,13 +275,13 @@ The Court has also “acknowledged that stare decisis concerns are at their acme
 “\[T\]his Court has reconsidered its decisions construing the Sherman Act when the 
 theoretical underpinnings of those decisions are called into serious question.”[^60] 
 
-> *Note*: Exactly (i.e., the precise moment) when "the theoretical underpinnings" of prior decisions is sufficiently called into question is not clear, although this opinion does provide some indicators.
+> *Note*: Exactly (i.e., the precise moment) when “the theoretical underpinnings” of prior decisions is sufficiently called into question is not clear, although this opinion does provide some indicators.
 
-“In the area of antitrust law, there is a competing interest, well represented in this Court's decisions, in recognizing and adapting to changed circumstances and the lessons of accumulated experience.”[^61]
+“In the area of antitrust law, there is a competing interest, well represented in this Court’s decisions, in recognizing and adapting to changed circumstances and the lessons of accumulated experience.”[^61]
 
-“\[T\]he general presumption that legislative changes should be left to Congress has less force with respect to the Sherman Act in light of the accepted view that Congress ‘expected the courts to give shape to the statute's broad mandate by drawing on common-law tradition.’”[^62]
+“\[T\]he general presumption that legislative changes should be left to Congress has less force with respect to the Sherman Act in light of the accepted view that Congress ‘expected the courts to give shape to the statute’s broad mandate by drawing on common-law tradition.’”[^62]
 
-> *Note*: Notice the maneuver the Court has done. In this decision, the Court has spent considerable space explaining the importance of stare decisis, and concludes that the rules and guidance it has laid out, do not fully apply to the Sherman Act. Also here, the Court takes for granted here what the "common-law tradition" means. Subsequent research has shown that the common law tradition had a specific framing, that of the moral economy.[^63] 
+> *Note*: Notice the maneuver the Court has done. In this decision, the Court has spent considerable space explaining the importance of stare decisis, and concludes that the rules and guidance it has laid out, do not fully apply to the Sherman Act. Also here, the Court takes for granted here what the “common-law tradition” means. Subsequent research has shown that the common law tradition had a specific framing, that of the moral economy.[^63] 
 > 
 >*Themes*: #Theme/StareDecisis
 
@@ -294,7 +293,7 @@ theoretical underpinnings of those decisions are called into serious question.�
 
 > *Note*: Exactly how many decisions are needed to bring into question a precedent and how much scholarship is required are questions left unanswered.
 
-Reevaluation of a prior precedent is also reasonable when a decision’s holding (in this case *Albrecht*) has been “eroded by this Court's \[other\] precedent\[s\].”[^67]
+Reevaluation of a prior precedent is also reasonable when a decision’s holding (in this case *Albrecht*) has been “eroded by this Court’s \[other\] precedent\[s\].”[^67]
 
 >*Themes*: #Theme/StareDecisis
 >
@@ -318,17 +317,17 @@ In general *Albrecht’s* rule “lacks adequate justification.”[^72]
 
 ###### The Scholarship That Undermines the Prior Decision
 
-Quoting Judge Posner his Seventh Circuit Court decision, “unless the supplier is a monopsonist he cannot squeeze his dealers' margins below a competitive level; the attempt to do so would just drive the dealers into the arms of a competing supplier.”[^73] 
+Quoting Judge Posner his Seventh Circuit Court decision, “unless the supplier is a monopsonist he cannot squeeze his dealers’ margins below a competitive level; the attempt to do so would just drive the dealers into the arms of a competing supplier.”[^73] 
 
 Adopting the reasoning of Judge Posner from the Circuit Court, the Supreme Court agrees that, fixing maximum prices can help provide the market for the supplier’s product because they stop individual dealers (like plaintiff/respondent Khan), if they have monopoly power, from overcharging customers – which could happen particularly if the brand is popular.[^74]
 
 Additionally, also adopting the reasoning of Judge Posner from the Circuit Court, the Supreme Court agrees that loose pricing restrictions on dealers could cause fewer customers to buy the product, leading to fewer sales and subsequently profits. Fixing maximum prices ensure the dealer’s products are priced in a way that can maximizing overall sales and revenue – thus benefiting consumers, the supplier, and the dealers.[^75]
 
-While *Albrecht* worried that setting maximum prices might make it difficult for dealers to provide important services to customers, this circumstance would result in setting prices so low it would likely drive customers away, which would hurt not just the dealers but also the manufacturers and consumers. As a result, it's unlikely that a supplier would choose to set prices that low as a “matter of business judgment”[^76] 
+While *Albrecht* worried that setting maximum prices might make it difficult for dealers to provide important services to customers, this circumstance would result in setting prices so low it would likely drive customers away, which would hurt not just the dealers but also the manufacturers and consumers. As a result, it’s unlikely that a supplier would choose to set prices that low as a “matter of business judgment”[^76] 
 
 > *Plain Meaning*: Rational business judgment should discourage suppliers from setting maximum prices so low that they undermine dealer services, drive away customers, and ultimately harm manufacturers and consumers.
 
->*Note*: The Court's determination of what is or is not (ostensibly rational) business judgment is based on narrowly defined, and highly sensitive assumptions based on Chicago School economics. 
+>*Note*: The Court’s determination of what is or is not (ostensibly rational) business judgment is based on narrowly defined, and highly sensitive assumptions based on Chicago School economics. 
 
 >*Themes*: #Theme/StareDecisis
 
@@ -340,35 +339,35 @@ While *Albrecht* worried that setting maximum prices might make it difficult for
 
 >_Note:_ The time between _Albrecht_ and _State Oil v. Khan_ was 29 years.
 
-“*Albrecht's* dire predictions have not been borne out, even though manufacturers and suppliers appear to have fashioned schemes to get around the per se rule against vertical maximum price fixing.”[^78] 
+“*Albrecht’s* dire predictions have not been borne out, even though manufacturers and suppliers appear to have fashioned schemes to get around the per se rule against vertical maximum price fixing.”[^78] 
 
-“Not only are the potential injuries cited in *Albrecht* less serious than the Court imagined, the per se rule established therein could in fact exacerbate problems related to the unrestrained exercise of market power by monopolist-dealers. Indeed, both courts and antitrust scholars have noted that *Albrecht's* rule may actually harm consumers and manufacturers.”[^79] 
+“Not only are the potential injuries cited in *Albrecht* less serious than the Court imagined, the per se rule established therein could in fact exacerbate problems related to the unrestrained exercise of market power by monopolist-dealers. Indeed, both courts and antitrust scholars have noted that *Albrecht’s* rule may actually harm consumers and manufacturers.”[^79] 
 
 For example, “*Albrecht* noted that vertical maximum price fixing could effectively channel distribution through large or specially advantaged dealers. It is unclear, however, that a supplier would profit from limiting its market by excluding potential dealers. Further, although vertical maximum price fixing might limit the viability of inefficient dealers, that consequence is not necessarily harmful to competition and consumers.”[^80]
 
 >_Plain Meaning_: Vertical maximum price fixing might push distribution toward larger or better-positioned dealers, as noted in _Albrecht_, but it’s unclear that suppliers would benefit from excluding potential dealers, as doing so could limit their market position. Additionally, while such pricing could make inefficient dealers less viable, this is not necessarily injurious for competition or to consumers, as it might lead to a more efficient market.
 
-*Albrecht's* decision exacerbates the harms to competition cited in this opinion because, since the Court's decision in *Continental TV, Inc. v. GTE Sylvania Inc.*, 433 U.S. 36 (1977) which overturned the per se rule on vertical non-price restraints, the illegality of maximum vertical price-fixing under *Albrecht* increases “the likelihood of dealer monopoly power.”[^81]
+*Albrecht’s* decision exacerbates the harms to competition cited in this opinion because, since the Court’s decision in *Continental TV, Inc. v. GTE Sylvania Inc.*, 433 U.S. 36 (1977) which overturned the per se rule on vertical non-price restraints, the illegality of maximum vertical price-fixing under *Albrecht* increases “the likelihood of dealer monopoly power.”[^81]
 
 > *Note*: Here again, this assertion just cites Chicago School scholarship (in this instance Frank Easterbrook, *Maximum Price Fixing*, 48 U. Chi. L. Rev. 886 (1981)) and a previous decision.
 
-Due to *Albrecht's* rule, according to the Supreme Court, firms have been encouraged to “integrate forward into distribution, thus eliminating the very independent trader for whom *Albrecht* professed solicitude. For example, integration in the newspaper industry since *Albrecht* has given rise to litigation between independent distributors and publishers.”[^82]
+Due to *Albrecht’s* rule, according to the Supreme Court, firms have been encouraged to “integrate forward into distribution, thus eliminating the very independent trader for whom *Albrecht* professed solicitude. For example, integration in the newspaper industry since *Albrecht* has given rise to litigation between independent distributors and publishers.”[^82]
 
 >*Themes*: #Theme/StareDecisis
 
 #### Considerations of Asserted Analogous Precedents
 
-In asserting that *Albrecht's* per se rule should be retained, plaintiff/respondent Khan invoked the Court’s precedents regarding the baseball exemption in *Toolson v. New York Yankees, Inc.*, 346 U.S. 356 (1953) (per curiam) and *Flood v. Kuhn*, 407 U.S. 258 (1972), but the Court stated that such assertions are "misplaced.”[^83] This is because, as the Court stated in *Kuhn* the baseball exemption is an “aberration . . . rest\[ing\] on a recognition and an acceptance of baseball's unique characteristics and needs\[.\]"[^84]
+In asserting that *Albrecht’s* per se rule should be retained, plaintiff/respondent Khan invoked the Court’s precedents regarding the baseball exemption in *Toolson v. New York Yankees, Inc.*, 346 U.S. 356 (1953) (per curiam) and *Flood v. Kuhn*, 407 U.S. 258 (1972), but the Court stated that such assertions are “misplaced.”[^83] This is because, as the Court stated in *Kuhn* the baseball exemption is an “aberration … rest\[ing\] on a recognition and an acceptance of baseball’s unique characteristics and needs\[.\]”[^84]
 
 Additionally, because the baseball exemption is so unique, the lack of a legislative responsive by Congress allows the Court to “infer little meaning” from the circumstance.[^85] And any legislative proposals that do exist “neither clearly to support nor to denounce the per se rule of *Albrecht*.”[^86]
 
-> *Note*: Here the Supreme Court is creating a quasi-exemption for how prior precedent can be used. The Supreme Court states that "unique" precedent means it is inherently less valuable as guidance.
+> *Note*: Here the Supreme Court is creating a quasi-exemption for how prior precedent can be used. The Supreme Court states that “unique” precedent means it is inherently less valuable as guidance.
 > 
 >*Themes*: #Theme/StareDecisis
 
 #### Instructions for Lower Courts Regarding Stare Decisis
 
-“The Court of Appeals was correct in applying that principle despite disagreement with *Albrecht*, for it is this Court's prerogative alone to overrule one of its precedents.”[^87]
+“The Court of Appeals was correct in applying that principle despite disagreement with *Albrecht*, for it is this Court’s prerogative alone to overrule one of its precedents.”[^87]
 
 >*Note*: The directive requires lower courts to adhere to controlling precedent, despite the changing circumstances and understanding of the law.
 
@@ -377,7 +376,6 @@ Additionally, because the baseball exemption is so unique, the lack of a legisla
 # Disclosure About Case Briefs
 
 This document is not legal advice. Case briefs are merely summations of legal opinions and are not to be used as a substitute for obtaining legal counsel or reading the opinion and drawing your own conclusions as to its meaning and significance. Interpretations of legal rulings may vary significantly. If you are seeking legal advice, consult a licensed attorney.
-
 
 # Links
 
@@ -388,6 +386,7 @@ This document is not legal advice. Case briefs are merely summations of legal op
 
 
 ---
+
 # Footnotes
 
 [^1]: State Oil Co. v. Khan, 522 U.S. 3, 7 (1997).
@@ -402,7 +401,7 @@ This document is not legal advice. Case briefs are merely summations of legal op
 
 [^6]: State Oil Co. v. Khan, 522 U.S. 3, 8 (1997).
 
-[^7]: State Oil Co. v. Khan, 522 U.S. 3, 8 (1997) (“Respondents sued State Oil in the United States District Court for the Northern District of Illinois, alleging in part that State Oil had engaged in price fixing in violation of § 1 of the Sherman Act by preventing respondents from raising or lowering retail gas prices. According to the complaint, but for the agreement with State Oil, respondents could have charged different prices based on the grades of gasoline, in the same way that the receiver had, thereby achieving increased sales and profits. State Oil responded that the agreement did not actually prevent respondents from setting gasoline prices, and that, in substance, respondents did not allege a violation of antitrust laws by their claim that State Oil's suggested retail price was not optimal.”).
+[^7]: State Oil Co. v. Khan, 522 U.S. 3, 8 (1997) (“Respondents sued State Oil in the United States District Court for the Northern District of Illinois, alleging in part that State Oil had engaged in price fixing in violation of § 1 of the Sherman Act by preventing respondents from raising or lowering retail gas prices. According to the complaint, but for the agreement with State Oil, respondents could have charged different prices based on the grades of gasoline, in the same way that the receiver had, thereby achieving increased sales and profits. State Oil responded that the agreement did not actually prevent respondents from setting gasoline prices, and that, in substance, respondents did not allege a violation of antitrust laws by their claim that State Oil’s suggested retail price was not optimal.”).
 
 [^8]: State Oil Co. v. Khan, 522 U.S. 3, 9 (1997).
 
@@ -420,9 +419,9 @@ This document is not legal advice. Case briefs are merely summations of legal op
 
 [^15]: State Oil Co. v. Khan, 522 U.S. 3, 17 (1997) (_Albrecht_ was concerned that allowing maximum vertical price-fixing would facilitating minimum vertical price-fixing, thus necessitating per se treatment, however such concerns “can be appropriately recognized and punished under the rule of reason.”). **Note:** Minimum vertical price-fixing (at the time of this decision) was a long prohibited practice under the federal antitrust laws. Dr. Miles Med. Co. v. John D. Park & Sons Co., 220 U.S. 373, 408 (1911), *overruled by* Leegin Creative Leather Prods., Inc. v. PSKS, Inc., 551 U.S. 877 (2007)
 
-[^16]: State Oil Co. v. Khan, 522 U.S. 3, 20 (1997) (“In the area of antitrust law, there is a competing interest, well represented in this Court's decisions, in recognizing and adapting to changed circumstances and the lessons of accumulated experience.”); State Oil Co. v. Khan, 522 U.S. 3, 20-21 (1997) (“\[T\]he general presumption that legislative changes should be left to Congress has less force with respect to the Sherman Act in light of the accepted view that Congress ‘expected the courts to give shape to the statute's broad mandate by drawing on common-law tradition.’”) (quoting National Society of Professional Engineers v. United States, 435 U.S. 679, 688 (1978)). **Note**: The Court here assumes the meaning of exactly what the "common law tradition" is know and self-evident. It is not. Subsequent research has shown that the common law tradition had a specific framing, that of the moral economy. *See* Sanjukta Paul, *Recovering the Moral Economy Foundations of the Sherman Act*, 131 Yale L.J. 175 (2021).
+[^16]: State Oil Co. v. Khan, 522 U.S. 3, 20 (1997) (“In the area of antitrust law, there is a competing interest, well represented in this Court’s decisions, in recognizing and adapting to changed circumstances and the lessons of accumulated experience.”); State Oil Co. v. Khan, 522 U.S. 3, 20-21 (1997) (“\[T\]he general presumption that legislative changes should be left to Congress has less force with respect to the Sherman Act in light of the accepted view that Congress ‘expected the courts to give shape to the statute’s broad mandate by drawing on common-law tradition.’”) (quoting National Society of Professional Engineers v. United States, 435 U.S. 679, 688 (1978)). **Note**: The Court here assumes the meaning of exactly what the “common law tradition” is know and self-evident. It is not. Subsequent research has shown that the common law tradition had a specific framing, that of the moral economy. *See* Sanjukta Paul, *Recovering the Moral Economy Foundations of the Sherman Act*, 131 Yale L.J. 175 (2021).
 
-[^17]: State Oil Co. v. Khan, 522 U.S. 3, 22 (1997) (Reevaluation of a prior precedent is also reasonable when a decision’s holding (in this case _Albrecht_) has been “eroded by this Court's \[other\] precedent\[s\].”).
+[^17]: State Oil Co. v. Khan, 522 U.S. 3, 22 (1997) (Reevaluation of a prior precedent is also reasonable when a decision’s holding (in this case _Albrecht_) has been “eroded by this Court’s \[other\] precedent\[s\].”).
 
 [^18]: State Oil Co. v. Khan, 522 U.S. 3, 21 (1997) (“_Albrecht_ has been widely criticized since its inception.”); State Oil Co. v. Khan, 522 U.S. 3, 16 (1997) (“criticism of \[_Albrecht’s_\] premises abounds.”); State Oil Co. v. Khan, 522 U.S. 3, 22 (1997) (_“Albrecht\[’s\]_…conceptual foundations \[have been\] gravely weakened \[since the holding\].”); State Oil Co. v. Khan, 522 U.S. 3, 19 (1997) (“_Albrecht_…relied solely upon hypothetical effects of vertical maximum price fixing.”); State Oil Co. v. Khan, 522 U.S. 3, 19 (1997) (In general _Albrecht’s_ rule “lacks adequate justification.”).
 
@@ -446,11 +445,11 @@ This document is not legal advice. Case briefs are merely summations of legal op
 
 [^28]: State Oil Co. v. Khan, 522 U.S. 3, 17 (1997).
 
-[^29]: State Oil Co. v. Khan, 522 U.S. 3, 19 (1997) (“_Albrecht's_ dire predictions have not been borne out, even though manufacturers and suppliers appear to have fashioned schemes to get around the per se rule against vertical maximum price fixing.”); State Oil Co. v. Khan, 522 U.S. 3, 17-19 (1997) (listing the harms of fixing vertical maximum prices as detailed in _Albrecht_).
+[^29]: State Oil Co. v. Khan, 522 U.S. 3, 19 (1997) (“_Albrecht’s_ dire predictions have not been borne out, even though manufacturers and suppliers appear to have fashioned schemes to get around the per se rule against vertical maximum price fixing.”); State Oil Co. v. Khan, 522 U.S. 3, 17-19 (1997) (listing the harms of fixing vertical maximum prices as detailed in _Albrecht_).
 
-[^30]: State Oil Co. v. Khan, 522 U.S. 3, 18 (1997) (_Albrecht's_ decision exacerbates the harms to competition cited in this opinion because of the _Sylvania_ decision because the legality of vertical non-price restraints and illegality of maximum vertical price-fixing increases “the likelihood of dealer monopoly power.”).
+[^30]: State Oil Co. v. Khan, 522 U.S. 3, 18 (1997) (_Albrecht’s_ decision exacerbates the harms to competition cited in this opinion because of the _Sylvania_ decision because the legality of vertical non-price restraints and illegality of maximum vertical price-fixing increases “the likelihood of dealer monopoly power.”).
 
-[^31]: State Oil Co. v. Khan, 522 U.S. 3, 18 (1997) (“Not only are the potential injuries cited in _Albrecht_ less serious than the Court imagined, the per se rule established therein could in fact exacerbate problems related to the unrestrained exercise of market power by monopolist-dealers. Indeed, both courts and antitrust scholars have noted that *Albrecht's* rule may actually harm consumers and manufacturers.”).
+[^31]: State Oil Co. v. Khan, 522 U.S. 3, 18 (1997) (“Not only are the potential injuries cited in _Albrecht_ less serious than the Court imagined, the per se rule established therein could in fact exacerbate problems related to the unrestrained exercise of market power by monopolist-dealers. Indeed, both courts and antitrust scholars have noted that *Albrecht’s* rule may actually harm consumers and manufacturers.”).
 
 [^32]: State Oil Co. v. Khan, 522 U.S. 3, 17 (1997) (“_Albrecht_ noted that vertical maximum price fixing could effectively channel distribution through large or specially advantaged dealers. It is unclear, however, that a supplier would profit from limiting its market by excluding potential dealers. Further, although vertical maximum price fixing might limit the viability of inefficient dealers, that consequence is not necessarily harmful to competition and consumers.”).
 
@@ -466,7 +465,7 @@ This document is not legal advice. Case briefs are merely summations of legal op
 
 [^38]: Continental TV, Inc. v. GTE Sylvania Inc., 433 U.S. 36, 51 n. 19 (1977).
 
-[^39]: State Oil Co. v. Khan, 522 U.S. 3, 18 (1997) (“Indeed, both courts and antitrust scholars have noted that *Albrecht's* rule may actually harm consumers and manufacturers.”).
+[^39]: State Oil Co. v. Khan, 522 U.S. 3, 18 (1997) (“Indeed, both courts and antitrust scholars have noted that *Albrecht’s* rule may actually harm consumers and manufacturers.”).
 
 [^40]: State Oil Co. v. Khan, 522 U.S. 3, 10 (1997).
 
@@ -506,7 +505,7 @@ This document is not legal advice. Case briefs are merely summations of legal op
 
 [^58]: State Oil Co. v. Khan, 522 U.S. 3, 20 (1997) (quoting Payne v. Tennessee, 501 U.S. 808, 828 (1991)).
 
-[^59]: State Oil Co. v. Khan, 522 U.S. 3, 16 (1997); State Oil Co. v. Khan, 522 U.S. 3, 13 (1997) (quoting Continental T. V., Inc. v. GTE Sylvania Inc., 433 U.S. 36 , 47-49 (1977) (“The great weight of scholarly opinion has been critical of the decision, and a number of the federal courts confronted with analogous vertical restrictions have sought to limit its reach. In our view, the experience of the past 10 years should be brought to bear on this subject of considerable commercial importance.”); State Oil Co. v. Khan, 522 U.S. 3, 13 (1997) (stating in Continental T. V., Inc. v. GTE Sylvania Inc., 433 U.S. 36, 54-57 (1977), “The Court...reviewed scholarly works supporting the economic utility of vertical nonprice restraints.”).
+[^59]: State Oil Co. v. Khan, 522 U.S. 3, 16 (1997); State Oil Co. v. Khan, 522 U.S. 3, 13 (1997) (quoting Continental T. V., Inc. v. GTE Sylvania Inc., 433 U.S. 36 , 47-49 (1977) (“The great weight of scholarly opinion has been critical of the decision, and a number of the federal courts confronted with analogous vertical restrictions have sought to limit its reach. In our view, the experience of the past 10 years should be brought to bear on this subject of considerable commercial importance.”); State Oil Co. v. Khan, 522 U.S. 3, 13 (1997) (stating in Continental T. V., Inc. v. GTE Sylvania Inc., 433 U.S. 36, 54-57 (1977), “The Court…reviewed scholarly works supporting the economic utility of vertical nonprice restraints.”).
 
 [^60]: State Oil Co. v. Khan, 522 U.S. 3, 21 (1997). 
 
